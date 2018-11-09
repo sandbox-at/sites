@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<videofeed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<feedtype>full</feedtype>
+	<language>en</language>
+	<count>32</count>
+	<videos>
+		<video>
+			<url>https://americafirst.com/learn/fundamentals/good-bad-spending.html</url>
+			<title>Good vs. Bad Spending</title>
+			<category>FUNDamentals</category>
+			<description></description>
+		</video>
+		<video>
+			<url>https://americafirst.com/learn/fundamentals/common-money-beliefs.htm</url>
+			<title>Common Money Beliefs</title>
+			<category>FUNDamentals</category>
+			<description></description>
+		</video>
+	</videos>
+</videofeed>
