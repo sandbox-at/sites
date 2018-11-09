@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<videofeed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<feedtype>full</feedtype>
+	<language>en</language>
+	<count>32</count>
+	<videos>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/good-bad-spending.html
+			</url>
+			<title>
+				Good vs. Bad Spending
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/common-money-beliefs.html
+			</url>
+			<title>
+				Common Money Beliefs
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/financial-institution-tutorial.html
+			</url>
+			<title>
+				Financial Institution Tutorial
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/buying-used-car.html
+			</url>
+			<title>
+				Buying A Used Car
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+			https://americafirst.com/learn/fundamentals/loan-basics.html
+			</url>
+			<title>
+				Loan Basics
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/budgeting-basics.html
+			</url>
+			<title>
+				Budgeting Basics
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/boot-camp.html
+			</url>
+			<title>
+				Emergency Fund Boot Camp
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/organize-your-finances.html
+			</url>
+			<title>
+				Organizing Your Finances
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/credit-score-breakdown.html
+			</url>
+			<title>
+				Credit Score Breakdown
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/comparing_cards.html
+			</url>
+			<title>
+				Comparing Cards
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/checking-accounts-101.html
+			</url>
+			<title>
+				Checking Accounts 101
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/demystifying-mortgages.html
+			</url>
+			<title>
+				Demystifying Mortgages
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/intro-to-insurance.html
+			</url>
+			<title>
+				Intro to Insurance
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/foiling-identity-theft.html
+			</url>
+			<title>
+				Foiling Identity Theft
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/cooperative-principles.html
+			</url>
+			<title>
+				Seven Cooperative Principles
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/student-loans-101.html
+			</url>
+			<title>
+				Student Loans 101
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://americafirst.com/learn/fundamentals/living-on-your-own.html
+			</url>
+			<title>
+				Living On Your Own
+			</title>
+			<category>
+				FUNDamentals
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/paces-dairy-ann.html
+			</url>
+			<title>
+				Pace&apos;s Dairy Ann
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/sierra-rv.html
+			</url>
+			<title>
+				Sierra RV
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/ect-sales.html
+			</url>
+			<title>
+				ECT Sales
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/rr-bbq.html
+			</url>
+			<title>
+				R &amp; R BBQ
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/quick-turn-precision-machining.html
+			</url>
+			<title>
+				Quick Turn Precision Machining
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/business-spotlight/wasatch-foot-ankle-institute.html
+			</url>
+			<title>
+				Wasatch Foot &amp; Ankle Institute
+			</title>
+			<category>
+				Business Spotlight
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/ic.html
+			</url>
+			<title>
+				Innovation Center
+			</title>
+			<category>
+				About
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/mobile-banking.html#mobile-deposits
+			</url>
+			<title>
+				Mobile Deposits
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/mobile-banking.html#budgets-spending
+			</url>
+			<title>
+				Budgets &amp; Spending
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/mobile-banking.html#account-aggregation
+			</url>
+			<title>
+				Account Aggregation
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/mobile-banking.html#abc-deals
+			</url>
+			<title>
+				ABC Deals
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/mobile-banking.html#loans
+			</url>
+			<title>
+				Loans
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/business/services/merchant-accounts.html
+			</url>
+			<title>
+				Merchant Services
+			</title>
+			<category>
+				Business
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/mobile-services/card-guard.html
+			</url>
+			<title>
+				Card Guard
+			</title>
+			<category>
+				Mobile
+			</category>
+			<description></description>
+		</video>
+		<video>
+			<url>
+				https://www.americafirst.com/services/online-services/money-manager.html
+			</url>
+			<title>
+				Money Manager
+			</title>
+			<category>
+				Online Banking
+			</category>
+			<description></description>
+		</video>
+	</videos>
+</videofeed>
