@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<records>
+		<record>
+			<path>/content/dam/fedex/brand/us-gbm/images/2018/apr/03/2/20151018_jcp_0586_250108.jpg</path>
+			<fieldOfInterest>FedEx Fleet</fieldOfInterest>
+			<fieldOfInterest>FedEx Actions</fieldOfInterest>
+			<fieldOfInterest>Location</fieldOfInterest>
+			<fieldOfInterest>People</fieldOfInterest>
+			<fieldOfInterest>People Actions</fieldOfInterest>
+			<fieldOfInterest>Deliver</fieldOfInterest>
+			<fieldOfInterest>Pick Up</fieldOfInterest>
+			<fieldOfInterest>Walk</fieldOfInterest>
+			<orientation>Horizontal</orientation>
+			<specialInstructions></specialInstructions>
+			<people>Group</people>
+			<status>active</status>
+			<bulkUpload>true</bulkUpload>
+			<filename>20151018_jcp_0586_250108.jpg</filename>
+			<assetId>125295395</assetId>
+			<businessUnit>FedEx Custom Critical</businessUnit>
+			<libraryName>us-gbm</libraryName>
+			<creditLine>Jonathan Chapman</creditLine>
+			<parentName>FY16 Minneapolis</parentName>
+			<branding>Global Expression</branding>
+			<city>Minneapolis</city>
+			<fleet>Truck</fleet>
+			<fleet>Tractor Trailer</fleet>
+			<state>Minnesota</state>
+			<licensingRestrictions></licensingRestrictions>
+			<userGroup>Mar Comm</userGroup>
+			<keywords>museum</keywords>
+			<uploadedByEmail>tina.niclosi.osv@fedex.com</uploadedByEmail>
+			<country>US</country>
+			<tags>brand:asset_type/photos</tags>
+			<tags>brand:business_unit/fedex_custom_critical</tags>
+			<tags>brand:groups/mar_comm</tags>
+			<tags>brand:branding/fedex_branded</tags>
+			<tags>brand:branding/global_expression</tags>
+			<tags>brand:image_orientation/horizontal</tags>
+			<tags>brand:city/minneapolis</tags>
+			<tags>brand:state/minnesota</tags>
+			<tags>brand:country/us</tags>
+			<tags>brand:fedex_region_source/us</tags>
+			<tags>brand:field_of_interest/fedex_fleet</tags>
+			<tags>brand:field_of_interest/fedex_actions</tags>
+			<tags>brand:field_of_interest/location</tags>
+			<tags>brand:field_of_interest/people</tags>
+			<tags>brand:field_of_interest/people_actions</tags>
+			<tags>brand:field_of_interest/fedex_fleet/truck</tags>
+			<tags>brand:field_of_interest/fedex_actions/deliver</tags>
+			<tags>brand:field_of_interest/fedex_actions/pick_up</tags>
+			<tags>brand:field_of_interest/location/city</tags>
+			<tags>brand:field_of_interest/location/outdoor</tags>
+			<tags>brand:field_of_interest/location/street</tags>
+			<tags>brand:field_of_interest/people/group</tags>
+			<tags>brand:field_of_interest/people_actions/walk</tags>
+			<tags>brand:field_of_interest/fedex_fleet/truck/tractor_trailer</tags>
+			<tags>brand:asset_type</tags>
+			<tags>brand:business_unit</tags>
+			<tags>brand:groups</tags>
+			<tags>brand:branding</tags>
+			<tags>brand:image_orientation</tags>
+			<tags>brand:city</tags>
+			<tags>brand:state</tags>
+			<tags>brand:country</tags>
+			<tags>brand:fedex_region_source</tags>
+			<tags>brand:field_of_interest</tags>
+			<assetType>Photos</assetType>
+			<download>true</download>
+			<imageOrientation>Horizontal</imageOrientation>
+			<location>City</location>
+			<location>Outdoor</location>
+			<location>Street</location>
+		</record>
+		<record>
+			<path>/content/dam/fedex/brand/us-gbm/images/2018/apr/03/2/20151018_jcp_1865_250108.jpg</path>
+			<fieldOfInterest>FedEx Fleet</fieldOfInterest>
+			<fieldOfInterest>FedEx Actions</fieldOfInterest>
+			<fieldOfInterest>Location</fieldOfInterest>
+			<fieldOfInterest>Occasion</fieldOfInterest>
+			<fieldOfInterest>Deliver</fieldOfInterest>
+			<orientation>Horizontal</orientation>
+			<status>active</status>
+			<bulkUpload>true</bulkUpload>
+			<filename>20151018_jcp_1865_250108.jpg</filename>
+			<assetId>239257272</assetId>
+			<businessUnit>FedEx Custom Critical</businessUnit>
+			<libraryName>us-gbm</libraryName>
+			<creditLine>Jonathan Chapman</creditLine>
+			<parentName>FY16 Minneapolis</parentName>
+			<uploadedBy>520614</uploadedBy>
+			<branding>Global Expression</branding>
+			<city>Minneapolis</city>
+			<fleet>Truck</fleet>
+			<fleet>Tractor Trailer</fleet>
+			<state>Minnesota</state>
+			<userGroup>Mar Comm</userGroup>
+			<keywords>museum</keywords>
+			<occasion>Fall</occasion>
+			<country>US</country>
+			<tags>brand:asset_type/photos</tags>
+			<tags>brand:business_unit/fedex_custom_critical</tags>
+			<tags>brand:groups/mar_comm</tags>
+			<tags>brand:branding/fedex_branded</tags>
+			<tags>brand:branding/global_expression</tags>
+			<tags>brand:image_orientation/horizontal</tags>
+			<tags>brand:city/minneapolis</tags>
+			<tags>brand:state/minnesota</tags>
+			<tags>brand:country/us</tags>
+			<tags>brand:fedex_region_source/us</tags>
+			<tags>brand:field_of_interest/fedex_fleet</tags>
+			<tags>brand:field_of_interest/fedex_actions</tags>
+			<tags>brand:field_of_interest/location</tags>
+			<tags>brand:field_of_interest/occasion</tags>
+			<tags>brand:field_of_interest/fedex_fleet/truck</tags>
+			<tags>brand:field_of_interest/fedex_actions/deliver</tags>
+			<tags>brand:field_of_interest/location/city</tags>
+			<tags>brand:field_of_interest/location/outdoor</tags>
+			<tags>brand:field_of_interest/location/street</tags>
+			<tags>brand:field_of_interest/occasion/fall</tags>
+			<tags>brand:field_of_interest/fedex_fleet/truck/tractor_trailer</tags>
+			<tags>brand:asset_type</tags>
+			<tags>brand:business_unit</tags>
+			<tags>brand:groups</tags>
+			<tags>brand:branding</tags>
+			<tags>brand:image_orientation</tags>
+			<tags>brand:city</tags>
+			<tags>brand:state</tags>
+			<tags>brand:country</tags>
+			<tags>brand:fedex_region_source</tags>
+			<tags>brand:field_of_interest</tags>
+			<assetType>Photos</assetType>
+			<download>true</download>
+			<dc:date>20151022</dc:date>
+			<imageOrientation>Horizontal</imageOrientation>
+			<location>City</location>
+			<location>Outdoor</location>
+			<location>Street</location>
+		</record>
+	</records>
