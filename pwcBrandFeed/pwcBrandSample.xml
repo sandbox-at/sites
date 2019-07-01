@@ -1,0 +1,26 @@
+<records>
+    <record>
+        <url>https://brandsite.pwc.com/our-logo.html</url>
+        <urlToIndex>https://brandsite.pwc.com/our-logo.spbot.html</urlToIndex>
+        <title>Our brand guidelines overview page</title>
+        <desc>Branding guidelines with examples. Covers logo, fonts, templates.</descr>
+        <category>Our brand</category>
+        <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
+    </record>
+    <record>
+        <url>https://brandsite.pwc.com/our-logo/content.html</url>
+        <urlToIndex>https://brandsite.pwc.com/our-logo/content.spbot.html</urlToIndex>
+        <title>Our brand content page</title>
+        <desc>Branding content page with one anchor. UrlTOIndex doesn't include the content of anchor.</descr>
+        <category>Our brand</category>
+        <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
+    </record>
+    <record>
+        <url>https://brandsite.pwc.com/our-logo/content.html#principle</url>
+        <urlToIndex>https://brandsite.pwc.com/our-logo/content/_jcr_content/anchor.html</urlToIndex>
+        <title>Our brand content page anchor title</title>
+        <desc>Our brand content page anchor description.</descr>
+        <category>Our brand</category>
+        <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
+    </record>
+</records>
