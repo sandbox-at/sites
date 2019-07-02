@@ -1,0 +1,301 @@
+<article charset="UTF-8" lang="fr_CH" order="18" state="NEW">
+	<product>
+		<id>103942</id>
+		<name>Vanne à bille type 230 - DA (Action double) 
+			<br/>Sans commande manuelle
+			<br/>Avec emboîtures pour collage métrique
+		</name>
+		<images>
+			<image order="0" type="IMAGE">image/2262/P0520525.tif</image>
+			<image order="1" type="IMAGE">image/2305/P0802481.tif</image>
+			<image order="2" type="DRAWING">image/1909/P0802486.eps</image>
+		</images>
+	</product>
+	<meta-tags>
+		<meta-tag>
+			<id>2640</id>
+			<name>Pneumatic Ball Valves</name>
+			<label>2640:Pneumatic Ball Valves</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2089</id>
+			<name>Ball Valves</name>
+			<label>2089:Ball Valves</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2149</id>
+			<name>Cemented Systems</name>
+			<label>2149:Cemented Systems</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2641</id>
+			<name>Pneumatic Ball Valves 230</name>
+			<label>2641:Pneumatic Ball Valves 230</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2031</id>
+			<name>Actuation</name>
+			<label>2031:Actuation</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2492</id>
+			<name>Valves</name>
+			<label>2492:Valves</label>
+		</meta-tag>
+		<meta-tag>
+			<id>2600</id>
+			<name>PVC-U System</name>
+			<label>2600:PVC-U System</label>
+		</meta-tag>
+		<meta-tag>
+			<id>3094</id>
+			<name>Pneumatic Ball Valves 230 - 235</name>
+			<label>3094:Pneumatic Ball Valves 230 - 235</label>
+		</meta-tag>
+	</meta-tags>
+	<code>199230220</code>
+	<pk>103942-199230220-fr_CH</pk>
+	<assets>
+		<datasheet>datasheet/103942/1621212/2982574de7cf740c108ba0972b0a1f1c_1501872519436.pdf</datasheet>
+	</assets>
+	<main-measurements>
+		<main-measurements order="0">
+			<id>68</id>
+			<name>d</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670744</id>
+				<content>90</content>
+			</value>
+		</main-measurements>
+		<main-measurements order="1">
+			<id>108</id>
+			<name>DN</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670838</id>
+				<content>80</content>
+			</value>
+		</main-measurements>
+		<main-measurements order="2">
+			<id>222</id>
+			<name>PN</name>
+			<unit>bar</unit>
+			<value>
+				<id>14670802</id>
+				<content>10</content>
+			</value>
+		</main-measurements>
+		<main-measurements order="3">
+			<id>229</id>
+			<name>Valeur-kv (Δp=1 bar)</name>
+			<unit>l⁄min</unit>
+			<value>
+				<id>14670823</id>
+				<content>7000</content>
+			</value>
+		</main-measurements>
+	</main-measurements>
+	<additional-measurements>
+		<additional-measurement order="0">
+			<id>2</id>
+			<name>D</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670999</id>
+				<content>200</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="1">
+			<id>7</id>
+			<name>H</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670987</id>
+				<content>274</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="2">
+			<id>8</id>
+			<name>H1</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670784</id>
+				<content>105</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="3">
+			<id>9</id>
+			<name>H2</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670748</id>
+				<content>168</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="4">
+			<id>12</id>
+			<name>H5</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670799</id>
+				<content>70</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="5">
+			<id>3</id>
+			<name>L</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670877</id>
+				<content>254</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="6">
+			<id>4</id>
+			<name>L1</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670955</id>
+				<content>152</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="7">
+			<id>5</id>
+			<name>L2</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670922</id>
+				<content>141</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="8">
+			<id>14</id>
+			<name>L4</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670696</id>
+				<content>70</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="9">
+			<id>15</id>
+			<name>L5</name>
+			<unit>mm</unit>
+			<value>
+				<id>14671040</id>
+				<content/>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="10">
+			<id>16</id>
+			<name>L6</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670705</id>
+				<content>65</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="11">
+			<id>17</id>
+			<name>L7</name>
+			<unit>mm</unit>
+			<value>
+				<id>14671011</id>
+				<content/>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="12">
+			<id>19</id>
+			<name>z</name>
+			<unit>mm</unit>
+			<value>
+				<id>14670919</id>
+				<content>151</content>
+			</value>
+		</additional-measurement>
+		<additional-measurement order="13">
+			<id>272</id>
+			<name>Pouce</name>
+			<unit>inch</unit>
+			<value>
+				<id>14670855</id>
+				<content>3</content>
+			</value>
+		</additional-measurement>
+	</additional-measurements>
+	<facets>
+		<facet>
+			<id>2624</id>
+			<name>Standard</name>
+			<values>
+				<value>
+					<id>2625</id>
+					<content>metric</content>
+				</value>
+			</values>
+		</facet>
+		<facet>
+			<id>3082</id>
+			<name>Material</name>
+			<values>
+				<value>
+					<id>3083</id>
+					<content>PVC-U</content>
+				</value>
+			</values>
+		</facet>
+		<facet>
+			<id>3280</id>
+			<name>Type</name>
+			<values>
+				<value>
+					<id>3305</id>
+					<content>Type 230</content>
+				</value>
+			</values>
+		</facet>
+		<facet>
+			<id>3220</id>
+			<name>End Connection</name>
+			<values>
+				<value>
+					<id>3221</id>
+					<content>Socket</content>
+				</value>
+			</values>
+		</facet>
+		<facet>
+			<id>3262</id>
+			<name>Control Mode</name>
+			<values>
+				<value>
+					<id>3265</id>
+					<content>DA (Double acting)</content>
+				</value>
+			</values>
+		</facet>
+	</facets>
+	<article-texts>
+		<article-text>
+			<id>99771</id>
+			<category>Option:</category>
+			<values>
+				<value>
+					<id>99773</id>
+					<content>Différentes combinaisons possibles (veuillez contacter notre service clientèle)</content>
+				</value>
+			</values>
+		</article-text>
+		<article-text>
+			<id>98757</id>
+			<category>Exécution:</category>
+			<values>
+				<value>
+					<id>98780</id>
+					<content>Inserts de fixation en acier inoxydable intégrés</content>
+				</value>
+			</values>
+		</article-text>
+	</article-texts>
+</article>
