@@ -36,22 +36,5 @@
         <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
         <contentType>site</contentType>
     </record>
-	<record>
-        <url>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.spbot.html#Clear%20Space</url>
-        <urlToIndex>http://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor_79013275.html</urlToIndex>
-        <title>Clear Space</title>
-        <desc>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui. In malesuada enim in dolor euismod, id commodo mi consectet.</desc>
-        <category>Our brand</category>
-        <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
-        <contentType>site</contentType>
-    </record>
-	<record>
-        <url>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.spbot.html#Placement</url>
-        <urlToIndex>http://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor_79013275.html</urlToIndex>
-        <title>Placement</title>
-        <desc>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui. In malesuada enim in dolor euismod, id commodo mi consectet.</desc>
-        <category>Our brand</category>
-        <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
-        <contentType>site</contentType>
-    </record>
+
 </records>
