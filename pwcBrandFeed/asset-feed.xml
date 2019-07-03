@@ -3,7 +3,7 @@
     <record>
         <url>https://brandsite.pwc.com/content/brandsite/en-gb/asset-details.html/content/dam/brandsite/asset-library/photography/3000x1500.jpg</url> <!-- URL of the asset details page as seen in browser bar -->
         <assetPath>/content/dam/brandsite/asset-library/photography/3000x1500.jpg</assetPath>
-        <contentType>asset<contentType> <!-- Note: Same for all asset records -->
+        <contentType>asset</contentType> <!-- Note: Same for all asset records -->
         <lastModified>Jul 03, 2019 17:30:45</lastModified>
         <category>Assets</category> <!-- Note: Same for all asset records -->
         <!-- Below elements are from asset metadata and they are optional. -->
@@ -12,8 +12,8 @@
         <cq_name>3000x1500.jpg</cq_name>
         <dc_format>image/jpeg</dc_format> <!-- field that needs grouping -->
         <pwc_keywords>Image, check, index</pwc_keywords>
-        <pwc_city>Bangalore<pwc_city>
-        <pwc_region>Asia<pwc_region>
+        <pwc_city>Bangalore</pwc_city>
+        <pwc_region>Asia</pwc_region>
         <pwc_country>India</pwc_country>
         <pwc_captionID></pwc_captionID>
         <pwc_purchaser>AfricaCentral</pwc_purchaser>
@@ -23,14 +23,14 @@
         <pwc_license>RightsManaged</pwc_license>
         <pwc_usageRights>rights here</pwc_usageRights>
         <pwc_employeeGUID>77777</pwc_employeeGUID>
-        <pwc_numberOfPeople>NoPeople<pwc_numberOfPeople>
+        <pwc_numberOfPeople>NoPeople</pwc_numberOfPeople>
         <pwc_pwcPeople>PwCPeopleOnly</pwc_pwcPeople>
         <pwc_copyFriendly>Yes</pwc_copyFriendly>
         <pwc_age>Senior60+Years</pwc_age>
         <pwc_composition>Close-Up</pwc_composition>
         <pwc_gender>AllGenders</pwc_gender>
         <pwc_ethnicity>middle-eastern|black</pwc_ethnicity>
-        <pwc_colorModel>RGB<pwc_colorModel>
+        <pwc_colorModel>RGB</pwc_colorModel>
         <pwc_logoColors>Black</pwc_logoColors>
         <pwc_templateType>EmailNewsLetter</pwc_templateType>
         <pwc_MediaType>Screen</pwc_MediaType>
@@ -45,7 +45,7 @@
     <record>
         <url>https://brandsite.pwc.com/content/brandsite/en-gb/asset-details.html/content/dam/brandsite/asset-library/photography/3000x1500.jpg</url>
         <assetPath>/content/dam/brandsite/asset-library/photography/3000x1500.jpg</assetPath>
-        <contentType>asset<contentType>
+        <contentType>asset</contentType>
         <category>Assets</category>
         <dc_title>First Image</dc_title>
         <pwc_license>RightsManaged</pwc_license>  
