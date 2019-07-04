@@ -9,6 +9,9 @@
 		<loc>https://madison-dev.pwc.com/dt/us/en/new-preset-test_ditamap/search.html</loc>
 		<lastmod>2019-07-01T13:44Z</lastmod>
 	</url>
+	<url action="delete">
+		<loc>https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/305-10-00_ditamap/Status_0/305-10-00.html</loc>
+	</url>
 	<url>
 		<loc>https://madison-dev.pwc.com/dt/us/en/baseline-test-map-_ditamap.html</loc>
 		<lastmod>2019-07-01T13:50Z</lastmod>
