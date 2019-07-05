@@ -3,10 +3,4 @@
 	<url action="delete">
 		<loc>https://acs-pwc-madison-dev.adobecqms.net/us/en/Test-topic123.html</loc>
 	</url>
-	<url>
-		<loc>http://acs-pwc-madison-dev.adobecqms.net/dt/us/en/topic_305_2_ditamap/305-10-00_196250-116639149.html</loc>
-	</url>
-	<url>
-		<loc>http://acs-pwc-madison-dev2.adobecqms.net/dt/us/en/topic_305_2_ditamap/305-10-00_196250.html</loc>
-	</url>
 </urlset>
