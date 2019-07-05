@@ -3,7 +3,7 @@
     <record>
         <url>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.html</url>
         <urlToIndex>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.spbot.html</urlToIndex>
-        <title>Our Logo Title</title>
+        <title>our-logo</title>
         <desc>Our Logo desciption</desc>
         <category>Our brand</category>
         <lastModified>2019-05-13T20:00:03.345-04:00</lastModified>
