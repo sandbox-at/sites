@@ -20,7 +20,7 @@
     </record>
     <record>
         <url>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.spbot.html#Principles</url>
-        <urlToIndex>http://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor.html</urlToIndex>
+        <urlToIndex>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor.html</urlToIndex>
         <title>Principles</title>
         <desc>This is some opening text. Cras quis nulla commodo, aliquam lectus sed, blandit augue. Cras ullamcorper bibendum bibendum. Duis tincidunt urna non pretium porta. Nam condimentum vitae ligula.</desc>
         <category>Our brand</category>
@@ -29,7 +29,7 @@
     </record>
 	<record>
         <url>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo.spbot.html#Variations</url>
-        <urlToIndex>http://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor_79013275.html</urlToIndex>
+        <urlToIndex>https://brandsite-dev.pwc.com/content/brandsite/en_gb/our-brand/our-logo/jcr:content/content/anchor_79013275.html</urlToIndex>
         <title>Variations</title>
         <desc>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui. In malesuada enim in dolor euismod, id commodo mi consectet.</desc>
         <category>Our brand</category>
