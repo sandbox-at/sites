@@ -1,2 +1,2 @@
 date Tue, 11 Sep 2019 02:20:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/t-31j-map_ditamap/t3-31j.html
+delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/t-31j-map_ditamap/t1-30j.html
