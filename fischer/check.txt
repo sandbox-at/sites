@@ -1,1 +1,2 @@
-index:Chck_Index_COnnector1?key=103942-199230220-fr_CH
+date Tue, 22 Sep 2019 07:25:26 EDT
+delete index:Chck_Index_COnnector1?key=103942-199230220-fr_CH
