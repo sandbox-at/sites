@@ -1,2 +1,2 @@
-date Tue, 23 Oct 2019 14:57:26 EDT
+date Tue, 23 Oct 2019 14:57:26 UTC
 delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/t-31j-map_ditamap/MD7848.html
