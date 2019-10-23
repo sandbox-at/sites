@@ -1,14 +1,2 @@
-date Tue, 11 Sep 2019 04:57:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/Testmap_ditamap/t1-30j.html
-date Tue, 11 Sep 2019 04:57:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/Testmap_ditamap/t2-31j.html
-date Tue, 11 Sep 2019 04:59:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/harish_test_folder/Ditamap_ditamap/subtopic1.html
-date Tue, 11 Sep 2019 05:10:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/rcl-sample/submap_ditamap/subtopic1.html
-date Tue, 11 Sep 2019 05:15:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/305-10-00_ditamap/107735.html
-date Tue, 11 Sep 2019 05:20:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/123ditamap_ditamap/alpha_dita.html
-date Tue, 11 Sep 2019 05:25:26 EDT
-delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/2016__5_US_ditamap/2016__5_US/us201612_sharebased__US.html
+date Tue, 23 Oct 2019 14:57:26 EDT
+delete https://acs-pwc-madison-dev.adobecqms.net/dt/us/en/pwc/ayg-test/t-31j-map_ditamap/MD7848.html
