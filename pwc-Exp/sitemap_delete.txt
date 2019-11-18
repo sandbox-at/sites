@@ -1,36 +1,7 @@
-date Thu, 07 Nov 2019 10:37:34 UTC
+date Thu, 18 Nov 2019 17:37:34 UTC
 delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic01.html
+
+date Thu, 18 Nov 2019 17:10:34 UTC
 delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic002.html
 delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic003.html
 
-date Thu, 07 Nov 2019 10:50:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic04.html
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic005.html
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic006.html
-
-date Thu, 07 Nov 2019 11:20:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic07.html
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic008.html
-delete https://viewpoint-stg.pwc.com/dt/us/en/Unpublish_map_test_ditamap/Unpublish_topic009.html
-
-date Thu, 07 Nov 2019 10:50:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap.html
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic01.html
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic002.html
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic003.html 
-
-date Thu, 07 Nov 2019 11:55:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic023.html
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic0334.html
-delete https://viewpoint-stg.pwc.com/dt/gx/en/Unpublish_map_test_ditamap/Unpublish_topic0789.html 
-
-date Thu, 07 Nov 2019 09:40:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap.html
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic01.html
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic002.html
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic003.html
-
-date Thu, 07 Nov 2019 11:37:34 UTC
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic01.html
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic002.html
-delete https://viewpoint-stg.pwc.com/dt/uk/en/Unpublish_map_test_ditamap/Unpublish_topic003.html
