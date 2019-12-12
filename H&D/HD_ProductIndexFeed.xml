@@ -64,8 +64,7 @@
 				<optionThumbnailURL>/medias/productsIndexTemplate.vm?context=bWFzdGVyfHJvb3R8NDMzNHx0ZXh0L3BsYWlufGhmZS9oY2EvODc5Nzg5NTM5MzMxMC50eHR8ZmYxMzY3YzEwZjVmZjEzYjM5YzJkNjc4NmE2YzVmN2Y3ZmJiMGVmMGRmY2NhZmE3ZWViMzAzYjhiNzMwZTMxOQ</optionThumbnailURL>
 				<optionName></optionName>
 				<optionSizesFits>null</optionSizesFits>
-	        </item>
-	    	    </list>
+	        
                 <fitmentType></fitmentType>
         <fitmentFilter></fitmentFilter>
         <primaryCategory-facet></primaryCategory-facet>
