@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<records> 
+    <record>
+        <productCode>12345678</productCode>
+        <baseOptionCode>{TBD}</baseOptionCode>
+        <pdpURL>/US/en/shop//p/12345678</pdpURL>
+        <name>Product Name</name>
+        <retailPrice>876.0</retailPrice>
+        <retailPriceFormatted>$876.00</retailPriceFormatted>
+        <price-facet>259.0</price-facet>
+        <priceFormatted>$259.00</priceFormatted>
+        <catalogCode>hdUSProductCatalog</catalogCode>
+        <catalogVersion>Online</catalogVersion>
+        <primaryThumbnailUrl>{Image URL}</primaryThumbnailUrl>
+        <hoverThumbnailUrl>{Image URL}</hoverThumbnailUrl>
+        <averageRating>{Product Average Rating</averageRating>
+        <numberOfReviews>0</numberOfReviews>
+        <numberOfColors>0</numberOfColors>
+        <badges>NEW ARRIVAL|BEST SELLER</badges>
+        <fitmentType>Universal</fitmentType>
+        <fitmentFilter>2007 FXDSE|2007 FXDL|2001 FLSTN|2001 XL883L</fitmentFilter>
+        <primaryCategory-facet>bikes</primaryCategory-facet>
+        <allCategories>bikes|motorcycles|parts|hd-products|motorcycle-parts</allCategories>
+        <superCategories-facet>motorcycles|motorcycle-parts|partsClassifications|commonClassifications|hat|jacket|helmet|eyewear|pants|shirtsTops|jewelry</superCategories-facet>
+         <colorFamilyName-facet>{Color Family Name for faceting}</colorFamilyName-facet>
+         <colorName>{Color Name}</colorName>
+         <finishFamilyName-facet>{Finish Family Name for faceting}</finishFamilyName-facet>
+         <position-facet>Front</position-facet>
+         <features-facet>adjustableLacing</features-facet>
+         <collection-facet>H-D x 414 Milwaukee</collection-facet>
+         <mountingStyle-facet>{Mounting Style for faceting}</mountingStyle-facet>
+         <performanceStageUpgrade-facet>Stage II</performanceStageUpgrade-facet>
+         <type-facet>fitted</type-facet>
+         <style-facet>midLayer|half|copper|relaxed|henley|polo|cuff|flatTop|crewNeck|vneck|Gree</style-facet>
+         <size-facet></size-facet>
+         <heelHeight-facet>${searchAndPromoteResolver.resolveHeelHeightFacet($product,"heelHeight")}</heelHeight-facet>
+         <waistSize-facet>34</waistSize-facet>
+         <inseamSize-facet>40</inseamSize-facet>
+         <availability-facet>InStoreOnly</availability-facet>
+         <salesRank></salesRank>
+         <productReleaseDate>2019-12-01</productReleaseDate>
+    </record>
+    <record>
+        <productCode>Base12345678</productCode>
+        <baseOptionCode></baseOptionCode>
+        <pdpURL>/US/en/shop//p/Base12345678</pdpURL>
+        <name></name>
+        <retailPrice>987.0</retailPrice>
+        <retailPriceFormatted>$987.00</retailPriceFormatted>
+        <price-facet>59.0</price-facet>
+        <priceFormatted>$59.00</priceFormatted>
+        <catalogCode>hdUSProductCatalog</catalogCode>
+        <catalogVersion>Online</catalogVersion>
+        <primaryThumbnailUrl></primaryThumbnailUrl>
+        <hoverThumbnailUrl></hoverThumbnailUrl>
+        <averageRating>${product.averageRating}</averageRating>
+        <numberOfReviews>0</numberOfReviews>
+        <numberOfColors>1</numberOfColors>
+        <badges></badges>
+        
+                      
+				<optionCode>Base12345678</optionCode>
+				<optionPDPURL>/US/en/shop//p/Base12345678</optionPDPURL>
+				<optionThumbnailURL>/medias/productsIndexTemplate.vm?context=bWFzdGVyfHJvb3R8NDMzNHx0ZXh0L3BsYWlufGhmZS9oY2EvODc5Nzg5NTM5MzMxMC50eHR8ZmYxMzY3YzEwZjVmZjEzYjM5YzJkNjc4NmE2YzVmN2Y3ZmJiMGVmMGRmY2NhZmE3ZWViMzAzYjhiNzMwZTMxOQ</optionThumbnailURL>
+				<optionName></optionName>
+				<optionSizesFits>null</optionSizesFits>
+	        </item>
+	    	    </list>
+                <fitmentType></fitmentType>
+        <fitmentFilter></fitmentFilter>
+        <primaryCategory-facet></primaryCategory-facet>
+        <allCategories></allCategories>
+        <superCategories-facet></superCategories-facet>
+         
+         <colorFamilyName-facet>${product.hdColorFamily}</colorFamilyName-facet>
+         <colorName>${product.hdColorName}</colorName>
+         <finishFamilyName-facet>${product.hdFinishFamilyName}</finishFamilyName-facet>
+         
+         <position-facet>${searchAndPromoteResolver.resolvePositionOfBikeFacet($product,"positionOnBike")}</position-facet>
+         <features-facet>${searchAndPromoteResolver.resolveFeaturesFacet($product,"functionalFeatures")}</features-facet>
+         <collection-facet>${searchAndPromoteResolver.resolveCollectionFacet($product,"collection")}</collection-facet>
+         <mountingStyle-facet>${searchAndPromoteResolver.resolveMountingFacet($product,"mountingStyle")}</mountingStyle-facet>
+         <performanceStageUpgrade-facet>${searchAndPromoteResolver.resolveUpgradeStageLevelFacet($product,"upgradeStageLevel")}</performanceStageUpgrade-facet>
+         <type-facet>${searchAndPromoteResolver.resolveTypeFacet($product,"hatFitType")}</type-facet>
+         <style-facet></style-facet>
+         
+         <size-facet></size-facet>
+         <heelHeight-facet>${searchAndPromoteResolver.resolveHeelHeightFacet($product,"heelHeight")}</heelHeight-facet>
+         <waistSize-facet></waistSize-facet>
+         <inseamSize-facet></inseamSize-facet>
+         <availability-facet>Online</availability-facet>
+         <salesRank></salesRank>
+         <productReleaseDate></productReleaseDate>
+         
+    </record>
+    
+</records>
