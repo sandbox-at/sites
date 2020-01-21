@@ -1,0 +1,2275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records>
+  <record>
+    <baseProductCode>2020-street-750</baseProductCode>
+    <productCodes>2020-street-750|XG750</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/street-750.html</pdpProductUrl>
+    <name>Harley-Davidson Street 750</name>
+    <formattedName>Harley-Davidson Street&lt;sup&gt;®&lt;/sup&gt; 750</formattedName>
+    <description>Agile and ready to blast through city streets. </description>
+    <modelYear>2020</modelYear>
+    <modelCode>XG750</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>7599</price>
+    <priceFormatted>$7,599</priceFormatted>
+    <monthlyPrice>121</monthlyPrice>
+    <monthlyPriceFormat>$121</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-e92/2020-street-750-016-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-street-750-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-010/2020-street-750-010-motorcycle.jpg|basePrice:7599|basePriceFormatted:$7,599|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-750-d87|colorCode:d87|colorName:Vivid Black Deluxe|displayColorName:Vivid Black Deluxe|defaultColor:False|hex1:#0f0f0f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-d87/2020-street-750-d87-motorcycle.jpg|basePrice:7894|basePriceFormatted:$7,894|additionalPrice:295|additionalPriceFormatted:$295|additionalPriceMessage:Adds $295 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-750-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:True|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-016/2020-street-750-016-motorcycle.jpg|basePrice:7894|basePriceFormatted:$7,894|additionalPrice:295|additionalPriceFormatted:$295|additionalPriceMessage:Adds $295 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-750-e55|colorCode:e55|colorName:Barracuda Silver Deluxe|displayColorName:Barracuda Silver Deluxe|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-e55/2020-street-750-e55-motorcycle.jpg|basePrice:8049|basePriceFormatted:$8,049|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-750-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-750/2020-street-750-e87/2020-street-750-e87-motorcycle.jpg|basePrice:8049|basePriceFormatted:$8,049|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Vivid Black Deluxe|Black Denim|Barracuda Silver Deluxe|Performance Orange</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>STREET</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-street-rod</baseProductCode>
+    <productCodes>2020-street-rod|XG750A</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/street-rod.html</pdpProductUrl>
+    <name>Street Rod</name>
+    <formattedName>Street Rod&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>Built to deliver the hot rod urban riding experience.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>XG750A</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>8699</price>
+    <priceFormatted>$8,699</priceFormatted>
+    <monthlyPrice>139</monthlyPrice>
+    <monthlyPriceFormat>$139</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-rod/2020-street-rod-e87/2020-street-rod-e87-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-street-rod-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-rod/2020-street-rod-010/2020-street-rod-010-motorcycle.jpg|basePrice:8699|basePriceFormatted:$8,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-rod-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-rod/2020-street-rod-e79/2020-street-rod-e79-motorcycle.jpg|basePrice:8994|basePriceFormatted:$8,994|additionalPrice:295|additionalPriceFormatted:$295|additionalPriceMessage:add $295 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-rod-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-rod/2020-street-rod-e85/2020-street-rod-e85-motorcycle.jpg|basePrice:8994|basePriceFormatted:$8,994|additionalPrice:295|additionalPriceFormatted:$295|additionalPriceMessage:add $295 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-rod-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:True|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-rod/2020-street-rod-e87/2020-street-rod-e87-motorcycle.jpg|basePrice:8994|basePriceFormatted:$8,994|additionalPrice:295|additionalPriceFormatted:$295|additionalPriceMessage:add $295 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|River Rock Gray Denim|Stone Washed White Pearl|Performance Orange</colorNames>
+    <colorFamilyCodes>BLACK|GRAY|WHITE|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Gray|White|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>STREET</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-iron-883</baseProductCode>
+    <productCodes>2020-iron-883|XL883N</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/iron-883.html</pdpProductUrl>
+    <name>Iron 883</name>
+    <formattedName>Iron 883&lt;sup&gt;™&lt;/sup&gt;</formattedName>
+    <description>Blacked-out and stripped-down with a legendary profile.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>XL883N</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>8999</price>
+    <priceFormatted>$8,999</priceFormatted>
+    <monthlyPrice>129</monthlyPrice>
+    <monthlyPriceFormat>$129</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-883/2020-iron-883-016/2020-iron883-016-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-iron-883-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:True|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-883/2020-iron-883-016/2020-iron-883-016-motorcycle.jpg|basePrice:8999|basePriceFormatted:$8,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-iron-883-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-883/2020-iron-883-e75/2020-iron-883-e75-motorcycle.jpg|basePrice:8999|basePriceFormatted:$8,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-iron-883-e77|colorCode:e77|colorName:River Rock Gray|displayColorName:River Rock Gray|defaultColor:False|hex1:#504237|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-883/2020-iron-883-e77/2020-iron-883-e77-motorcycle.jpg|basePrice:8999|basePriceFormatted:$8,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-iron-883-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-883/2020-iron-883-f02/2020-iron-883-f02-motorcycle.jpg|basePrice:9899|basePriceFormatted:$9,899|additionalPrice:900|additionalPriceFormatted:$900|additionalPriceMessage:Adds $900 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Black Denim|Barracuda Silver Denim|River Rock Gray|Scorched Orange/Silver Flux</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SPORTSTER</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-iron-1200</baseProductCode>
+    <productCodes>2020-iron-1200|XL1200NS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/iron-1200.html</pdpProductUrl>
+    <name>Iron 1200</name>
+    <formattedName>Iron 1200&lt;sup&gt;™&lt;/sup&gt;</formattedName>
+    <description>Blacked-out chopper profile with the power to go beyond the city limits.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>XL1200NS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>9999</price>
+    <priceFormatted>$9,999</priceFormatted>
+    <monthlyPrice>143</monthlyPrice>
+    <monthlyPriceFormat>$143</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-1200/2020-iron-1200-010/2020-iron-1200-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>3</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-iron-1200-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-1200/2020-iron-1200-010/2020-iron-1200-010-motorcycle.jpg|basePrice:9999|basePriceFormatted:$9,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-iron-1200-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-1200/2020-iron-1200-e54/2020-iron-1200-e54-motorcycle.jpg|basePrice:10349|basePriceFormatted:$10,349|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-iron-1200-e53|colorCode:e53|colorName:Billiard Blue|displayColorName:Billiard Blue|defaultColor:False|hex1:#143350|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-iron-1200/2020-iron-1200-e53/2020-iron-1200-e53-motorcycle.jpg|basePrice:10349|basePriceFormatted:$10,349|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver|Billiard Blue</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|BLUE</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Blue</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SPORTSTER</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-forty-eight</baseProductCode>
+    <productCodes>2020-forty-eight|XL1200X</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/forty-eight.html</pdpProductUrl>
+    <name>Forty-Eight</name>
+    <formattedName>Forty-Eight&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>Heavy-hitting fat tire style with an iconic peanut tank and bulldog stance.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>XL1200X</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>11299</price>
+    <priceFormatted>$11,299</priceFormatted>
+    <monthlyPrice>161</monthlyPrice>
+    <monthlyPriceFormat>$161</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-e79/2020-forty-eight-e79-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-forty-eight-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-010/2020-forty-eight-010-motorcycle.jpg|basePrice:11299|basePriceFormatted:$11,299|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-forty-eight-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:True|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-e79/2020-forty-eight-e79-motorcycle.jpg|basePrice:11649|basePriceFormatted:$11,649|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-forty-eight-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-e85/2020-forty-eight-e85-motorcycle.jpg|basePrice:11649|basePriceFormatted:$11,649|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-forty-eight-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-e87/2020-forty-eight-e87-motorcycle.jpg|basePrice:11649|basePriceFormatted:$11,649|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-forty-eight-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-forty-eight/2020-forty-eight-f00/2020-forty-eight-f00-motorcycle.jpg|basePrice:11999|basePriceFormatted:$11,999|additionalPrice:700|additionalPriceFormatted:$700|additionalPriceMessage:Adds $700 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|River Rock Gray Denim|Stone Washed White Pearl|Performance Orange|Stiletto Red</colorNames>
+    <colorFamilyCodes>BLACK|GRAY|WHITE|ORANGE|RED</colorFamilyCodes>
+    <colorFamilyNames>Black|Gray|White|Orange|Red</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SPORTSTER</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-roadster</baseProductCode>
+    <productCodes>2020-roadster|XL1200CX</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/roadster.html</pdpProductUrl>
+    <name>Roadster</name>
+    <formattedName>Roadster&lt;SUP&gt;™&lt;/sup&gt;</formattedName>
+    <description>Pure Sportster&lt;sup&gt;®&lt;/sup&gt; swagger infused with café-racing culture.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>XL1200CX</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>11499</price>
+    <priceFormatted>$11,499</priceFormatted>
+    <monthlyPrice>164</monthlyPrice>
+    <monthlyPriceFormat>$164</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-roadster/2020-roadster-e87/2020-roadster-e87-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-roadster-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-roadster/2020-roadster-010/2020-roadster-010-motorcycle.jpg|basePrice:11499|basePriceFormatted:$11,499|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-roadster-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:False|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-roadster/2020-roadster-016/2020-roadster-016-motorcycle.jpg|basePrice:11849|basePriceFormatted:$11,849|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-roadster-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-roadster/2020-roadster-e85/2020-roadster-e85-motorcycle.jpg|basePrice:11849|basePriceFormatted:$11,849|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-roadster-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:True|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-roadster/2020-roadster-e87/2020-roadster-e87-motorcycle.jpg|basePrice:12199|basePriceFormatted:$12,199|additionalPrice:700|additionalPriceFormatted:$700|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>street-motorcycle</categoryCode>
+    <categoryName>Street</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Street</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|street-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Black Denim|Stone Washed White Pearl|Performance Orange</colorNames>
+    <colorFamilyCodes>BLACK|WHITE|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|White|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SPORTSTER</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-livewire</baseProductCode>
+    <productCodes>2020-livewire|ELW</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/livewire.html</pdpProductUrl>
+    <name>LiveWire</name>
+    <formattedName>LiveWire&lt;sup&gt;™&lt;/sup&gt;</formattedName>
+    <description>A bolt of lightning that electrifies the urban grid.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>ELW</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>29799</price>
+    <priceFormatted>$29,799</priceFormatted>
+    <monthlyPrice>418</monthlyPrice>
+    <monthlyPriceFormat>$418</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-livewire/2020-livewire-010/2020-livewire-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>3</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-livewire-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-livewire/2020-livewire-010/2020-livewire-010-motorcycle.jpg|basePrice:29799|basePriceFormatted:$29,799|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-livewire-e91|colorCode:e91|colorName:Orange Fuse|displayColorName:Orange Fuse|defaultColor:False|hex1:#e9b575|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-livewire/2020-livewire-e91/2020-livewire-e91-motorcycle.jpg|basePrice:30149|basePriceFormatted:$30,149|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-livewire-e92|colorCode:e92|colorName:Yellow Fuse|displayColorName:Yellow Fuse|defaultColor:False|hex1:#9a8d1f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-livewire/2020-livewire-e92/2020-livewire-e92-motorcycle.jpg|basePrice:30149|basePriceFormatted:$30,149|additionalPrice:350|additionalPriceFormatted:$350|additionalPriceMessage:Adds $350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>electric-motorcycle</categoryCode>
+    <categoryName>Electric</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Electric</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|electric-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Orange Fuse|Yellow Fuse</colorNames>
+    <colorFamilyCodes>BLACK|ORANGE|YELLOW</colorFamilyCodes>
+    <colorFamilyNames>Black|Orange|Yellow</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>STREET</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-street-bob</baseProductCode>
+    <productCodes>2020-street-bob|FXBB</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/street-bob.html</pdpProductUrl>
+    <name>Street Bob</name>
+    <formattedName>Street Bob&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>A gritty, stripped-down bobber cloaked in black.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXBB</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>14599</price>
+    <priceFormatted>$14,599</priceFormatted>
+    <monthlyPrice>205</monthlyPrice>
+    <monthlyPriceFormat>$205</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-010/2020-street-bob-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-street-bob-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-010/2020-street-bob-010-motorcycle.jpg|basePrice:14599|basePriceFormatted:$14,599|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-bob-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-e75/2020-street-bob-e75-motorcycle.jpg|basePrice:14999|basePriceFormatted:$14,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-bob-e77|colorCode:e77|colorName:River Rock Gray|displayColorName:River Rock Gray|defaultColor:False|hex1:#504237|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-e77/2020-street-bob-e77-motorcycle.jpg|basePrice:14999|basePriceFormatted:$14,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-bob-e89|colorCode:e89|colorName:Spruce|displayColorName:Spruce|defaultColor:False|hex1:#464f4e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-e89/2020-street-bob-e89-motorcycle.jpg|basePrice:14999|basePriceFormatted:$14,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-bob-e99|colorCode:e99|colorName:Billiard Red/Vivid Black|displayColorName:Billiard Red/Vivid Black|defaultColor:False|hex1:#850005|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-bob/2020-street-bob-e99/2020-street-bob-e99-motorcycle.jpg|basePrice:15349|basePriceFormatted:$15,349|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:Adds $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver Denim|River Rock Gray|Spruce|Billiard Red/Vivid Black</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|GREEN|RED|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Green|Red|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-low-rider</baseProductCode>
+    <productCodes>2020-low-rider|FXLR</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/low-rider.html</pdpProductUrl>
+    <name>Low Rider</name>
+    <formattedName>Low Rider&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>Classic Americana meets cutting-edge performance.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXLR</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>14899</price>
+    <priceFormatted>$14,899</priceFormatted>
+    <monthlyPrice>209</monthlyPrice>
+    <monthlyPriceFormat>$209</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider/2020-low-rider-e53/2020-low-rider-e53-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-low-rider-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider/2020-low-rider-010/2020-low-rider-010-motorcycle.jpg|basePrice:14899|basePriceFormatted:$14,899|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-low-rider-e53|colorCode:e53|colorName:Billiard Blue|displayColorName:Billiard Blue|defaultColor:True|hex1:#143350|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider/2020-low-rider-e53/2020-low-rider-e53-motorcycle.jpg|basePrice:15299|basePriceFormatted:$15,299|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-low-rider-e81|colorCode:e81|colorName:Billiard Red|displayColorName:Billiard Red|defaultColor:False|hex1:#850005|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider/2020-low-rider-e81/2020-low-rider-e81-motorcycle.jpg|basePrice:15299|basePriceFormatted:$15,299|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-low-rider-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider/2020-low-rider-e85/2020-low-rider-e85-motorcycle.jpg|basePrice:15299|basePriceFormatted:$15,299|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Billiard Blue|Billiard Red|Stone Washed White Pearl</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|RED|WHITE</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Red|White</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-softail-slim</baseProductCode>
+    <productCodes>2020-softail-slim|FLSL</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/softail-slim.html</pdpProductUrl>
+    <name>Softail Slim</name>
+    <formattedName>Softail Slim&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>The essential stripped-down, low-slung bobber for all-day riding.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLSL</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>15999</price>
+    <priceFormatted>$15,999</priceFormatted>
+    <monthlyPrice>225</monthlyPrice>
+    <monthlyPriceFormat>$225</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-softail-slim/2020-softail-slim-e75/2020-softail-slim-e75-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-softail-slim-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-softail-slim/2020-softail-slim-010/2020-softail-slim-010-motorcycle.jpg|basePrice:15999|basePriceFormatted:$15,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-softail-slim-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:False|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-softail-slim/2020-softail-slim-016/2020-softail-slim-016-motorcycle.jpg|basePrice:16399|basePriceFormatted:$16,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-softail-slim-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:True|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-softail-slim/2020-softail-slim-e75/2020-softail-slim-e75-motorcycle.jpg|basePrice:16399|basePriceFormatted:$16,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-softail-slim-e83|colorCode:e83|colorName:Billiard Burgundy|displayColorName:Billiard Burgundy|defaultColor:False|hex1:#48040f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-softail-slim/2020-softail-slim-e83/2020-softail-slim-e83-motorcycle.jpg|basePrice:16399|basePriceFormatted:$16,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Black Denim|Barracuda Silver Denim|Billiard Burgundy</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|RED</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Red</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-low-rider-s</baseProductCode>
+    <productCodes>2020-low-rider-s|FXLRS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/low-rider-s.html</pdpProductUrl>
+    <name>Low Rider S</name>
+    <formattedName>Low Rider&lt;sup&gt;®&lt;/sup&gt; S</formattedName>
+    <description>A blacked-out, factory custom performance cruiser.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXLRS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>17999</price>
+    <priceFormatted>$17,999</priceFormatted>
+    <monthlyPrice>253</monthlyPrice>
+    <monthlyPriceFormat>$253</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider-s/2020-low-rider-s-010/2020-low-rider-s-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>2</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-low-rider-s-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider-s/2020-low-rider-s-010/2020-low-rider-s-010-motorcycle.jpg|basePrice:17999|basePriceFormatted:$17,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-low-rider-s-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-low-rider-s/2020-low-rider-s-e54/2020-low-rider-s-e54-motorcycle.jpg|basePrice:18399|basePriceFormatted:$18,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver</colorNames>
+    <colorFamilyCodes>BLACK|SILVER</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-deluxe</baseProductCode>
+    <productCodes>2020-deluxe|FLDE</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/deluxe.html</pdpProductUrl>
+    <name>Deluxe</name>
+    <formattedName>Deluxe</formattedName>
+    <description>Vintage style and modern attitude perfect for those chasing Route 66 vibes.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLDE</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18399</price>
+    <priceFormatted>$18,399</priceFormatted>
+    <monthlyPrice>259</monthlyPrice>
+    <monthlyPriceFormat>$259</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-e99/2020-deluxe-e99-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-deluxe-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-010/2020-deluxe-010-motorcycle.jpg|basePrice:18399|basePriceFormatted:$18,399|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-deluxe-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:False|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-e41/2020-deluxe-e41-motorcycle.jpg|basePrice:18799|basePriceFormatted:$18,799|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-deluxe-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-e85/2020-deluxe-e85-motorcycle.jpg|basePrice:18799|basePriceFormatted:$18,799|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-deluxe-e99|colorCode:e99|colorName:Billiard Red/Vivid Black|displayColorName:Billiard Red/Vivid Black|defaultColor:True|hex1:#850005|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-e99/2020-deluxe-e99-motorcycle.jpg|basePrice:19149|basePriceFormatted:$19,149|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:Adds $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-deluxe-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-deluxe/2020-deluxe-f02/2020-deluxe-f02-motorcycle.jpg|basePrice:19549|basePriceFormatted:$19,549|additionalPrice:1150|additionalPriceFormatted:$1,150|additionalPriceMessage:Adds $1,150 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Midnight Blue|Stone Washed White Pearl|Billiard Red/Vivid Black|Scorched Orange/Silver Flux</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|WHITE|RED|BLACK|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|White|Red|Black|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-sport-glide</baseProductCode>
+    <productCodes>2020-sport-glide|FLSB</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/sport-glide.html</pdpProductUrl>
+    <name>Sport Glide</name>
+    <formattedName>Sport Glide&lt;sup&gt;™&lt;/sup&gt;</formattedName>
+    <description>An aggressive combination of cruising agility and long-distance touring.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLSB</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18599</price>
+    <priceFormatted>$18,599</priceFormatted>
+    <monthlyPrice>261</monthlyPrice>
+    <monthlyPriceFormat>$261</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-e41/2020-sport-glide-e41-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>6</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-sport-glide-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-010/2020-sport-glide-010-motorcycle.jpg|basePrice:18599|basePriceFormatted:$18,599|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-sport-glide-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:True|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-e41/2020-sport-glide-e41-motorcycle.jpg|basePrice:18999|basePriceFormatted:$18,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-sport-glide-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-e79/2020-sport-glide-e79-motorcycle.jpg|basePrice:18999|basePriceFormatted:$18,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-sport-glide-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-e87/2020-sport-glide-e87-motorcycle.jpg|basePrice:18999|basePriceFormatted:$18,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-sport-glide-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-f01/2020-sport-glide-f01-motorcycle.jpg|basePrice:19549|basePriceFormatted:$19,549|additionalPrice:950|additionalPriceFormatted:$950|additionalPriceMessage:Adds $950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-sport-glide-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-sport-glide/2020-sport-glide-f02/2020-sport-glide-f02-motorcycle.jpg|basePrice:19749|basePriceFormatted:$19,749|additionalPrice:1150|additionalPriceFormatted:$1,150|additionalPriceMessage:Adds $1,150 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Midnight Blue|River Rock Gray Denim|Performance Orange|Tahitian Teal|Scorched Orange/Silver Flux</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|GRAY|ORANGE|TEAL</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Gray|Orange|Teal</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-fat-bob-114</baseProductCode>
+    <productCodes>2020-fat-bob-114|FXFBS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/fat-bob.html</pdpProductUrl>
+    <name>Fat Bob 114</name>
+    <formattedName>Fat Bob&lt;sup&gt;®&lt;/sup&gt; 114</formattedName>
+    <description>A street-eater with an appetite for power. Built with muscular style and performance. </description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXFBS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18799</price>
+    <priceFormatted>$18,799</priceFormatted>
+    <monthlyPrice>264</monthlyPrice>
+    <monthlyPriceFormat>$264</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-016/2020-fat-bob-114-016-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>6</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-fat-bob-114-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-010/2020-fat-bob-114-010-motorcycle.jpg|basePrice:18799|basePriceFormatted:$18,799|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-bob-114-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:True|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-016/2020-fat-bob-114-016-motorcycle.jpg|basePrice:19199|basePriceFormatted:$19,199|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-bob-114-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-e75/2020-fat-bob-114-e75-motorcycle.jpg|basePrice:19199|basePriceFormatted:$19,199|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-bob-114-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-e79/2020-fat-bob-114-e79-motorcycle.jpg|basePrice:19199|basePriceFormatted:$19,199|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-bob-114-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-e87/2020-fat-bob-114-e87-motorcycle.jpg|basePrice:19199|basePriceFormatted:$19,199|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-bob-114-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-bob-114/2020-fat-bob-114-f00/2020-fat-bob-114-f00-motorcycle.jpg|basePrice:19749|basePriceFormatted:$19,749|additionalPrice:950|additionalPriceFormatted:$950|additionalPriceMessage:Adds $950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Black Denim|Barracuda Silver Denim|River Rock Gray Denim|Performance Orange|Stiletto Red</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|ORANGE|RED</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Orange|Red</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-fxdr-114</baseProductCode>
+    <productCodes>2020-fxdr-114|FXDRS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/fxdr-114.html</pdpProductUrl>
+    <name>FXDR 114</name>
+    <formattedName>FXDR&lt;sup&gt;™&lt;/sup&gt; 114</formattedName>
+    <description>Fast on the straights. Agile in the corners. All-out performance mixed with drag-strip aggression.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXDRS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18999</price>
+    <priceFormatted>$18,999</priceFormatted>
+    <monthlyPrice>267</monthlyPrice>
+    <monthlyPriceFormat>$267</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-e87/2020-fxdr-114-e87-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-fxdr-114-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-010/2020-fxdr-114-010-motorcycle.jpg|basePrice:18999|basePriceFormatted:$18,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fxdr-114-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:False|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-016/2020-fxdr-114-016-motorcycle.jpg|basePrice:19399|basePriceFormatted:$19,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fxdr-114-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-e75/2020-fxdr-114-e75-motorcycle.jpg|basePrice:19399|basePriceFormatted:$19,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fxdr-114-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-e79/2020-fxdr-114-e79-motorcycle.jpg|basePrice:19399|basePriceFormatted:$19,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fxdr-114-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:True|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fxdr-114/2020-fxdr-114-e87/2020-fxdr-114-e87-motorcycle.jpg|basePrice:19399|basePriceFormatted:$19,399|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Black Denim|Barracuda Silver Denim|River Rock Gray Denim|Performance Orange</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-breakout-114</baseProductCode>
+    <productCodes>2020-breakout-114|FXBRS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/breakout.html</pdpProductUrl>
+    <name>Breakout 114</name>
+    <formattedName>Breakout&lt;sup&gt;®&lt;/sup&gt; 114</formattedName>
+    <description>Long, lean and mean. A muscular modern chopper that turns stoplights into drag strips.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FXBRS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>20499</price>
+    <priceFormatted>$20,499</priceFormatted>
+    <monthlyPrice>288</monthlyPrice>
+    <monthlyPriceFormat>$288</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-e79/2020-breakout-114-e79-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>7</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-breakout-114-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-010/2020-breakout-114-010-motorcycle.jpg|basePrice:20499|basePriceFormatted:$20,499|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:False|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-e41/2020-breakout-114-e41-motorcycle.jpg|basePrice:20499|basePriceFormatted:$20,499|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-e54/2020-breakout-114-e54-motorcycle.jpg|basePrice:20899|basePriceFormatted:$20,899|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:True|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-e79/2020-breakout-114-e79-motorcycle.jpg|basePrice:20899|basePriceFormatted:$20,899|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-e87/2020-breakout-114-e87-motorcycle.jpg|basePrice:20899|basePriceFormatted:$20,899|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-f00/2020-breakout-114-f00-motorcycle.jpg|basePrice:21449|basePriceFormatted:$21,449|additionalPrice:950|additionalPriceFormatted:$950|additionalPriceMessage:Adds $950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-breakout-114-f03|colorCode:f03|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-breakout-114/2020-breakout-114-f03/2020-breakout-114-f03-motorcycle.jpg|basePrice:21649|basePriceFormatted:$21,649|additionalPrice:1150|additionalPriceFormatted:$1,150|additionalPriceMessage:Adds $1,150 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Midnight Blue|Barracuda Silver|River Rock Gray Denim|Performance Orange|Stiletto Red|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|SILVER|GRAY|ORANGE|RED|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Silver|Gray|Orange|Red|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-fat-boy-114</baseProductCode>
+    <productCodes>2020-fat-boy-114|FLFBS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/fat-boy.html</pdpProductUrl>
+    <name>Fat Boy 114</name>
+    <formattedName>Fat Boy&lt;sup&gt;®&lt;/sup&gt;  114</formattedName>
+    <description>The original fat custom icon. Rolling with massive presence and a dominant attitude.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLFBS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>20599</price>
+    <priceFormatted>$20,599</priceFormatted>
+    <monthlyPrice>289</monthlyPrice>
+    <monthlyPriceFormat>$289</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e54/2020-fat-boy-114-e54-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>8</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-fat-boy-114-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-010/2020-fat-boy-114-010-motorcycle.jpg|basePrice:20599|basePriceFormatted:$20,599|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:False|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e41/2020-fat-boy-114-e41-motorcycle.jpg|basePrice:20999|basePriceFormatted:$20,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:True|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e54/2020-fat-boy-114-e54-motorcycle.jpg|basePrice:20999|basePriceFormatted:$20,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-e89|colorCode:e89|colorName:Spruce|displayColorName:Spruce|defaultColor:False|hex1:#464f4e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e89/2020-fat-boy-114-e89-motorcycle.jpg|basePrice:20999|basePriceFormatted:$20,999|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-e94|colorCode:e94|colorName:River Rock Gray/Vivid Black|displayColorName:River Rock Gray/Vivid Black|defaultColor:False|hex1:#4e443b|hex2:#1c1c1c |thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e94/2020-fat-boy-114-e94-motorcycle.jpg|basePrice:21349|basePriceFormatted:$21,349|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:Adds $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-e95|colorCode:e95|colorName:Barracuda Silver Denim/Black Denim|displayColorName:Barracuda Silver Denim/Black Denim|defaultColor:False|hex1:#9e9e9e|hex2:#2a2c2b|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-e95/2020-fat-boy-114-e95-motorcycle.jpg|basePrice:21349|basePriceFormatted:$21,349|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:Adds $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-f00/2020-fat-boy-114-f00-motorcycle.jpg|basePrice:21549|basePriceFormatted:$21,549|additionalPrice:950|additionalPriceFormatted:$950|additionalPriceMessage:Adds $950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-fat-boy-114-f03|colorCode:f03|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-fat-boy-114/2020-fat-boy-114-f03/2020-fat-boy-114-f03-motorcycle.jpg|basePrice:21749|basePriceFormatted:$21,749|additionalPrice:1150|additionalPriceFormatted:$1,150|additionalPriceMessage:Adds $1,150 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>cruiser-motorcycle</categoryCode>
+    <categoryName>Cruiser</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Cruiser</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|cruiser-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Midnight Blue|Barracuda Silver|Spruce|River Rock Gray/Vivid Black|Barracuda Silver Denim/Black Denim|Stiletto Red|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|SILVER|GREEN|GRAY|BLACK|SILVER|BLACK|RED|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Silver|Green|Gray|Black|Silver|Black|Red|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-electra-glide-standard</baseProductCode>
+    <productCodes>2020-electra-glide-standard|FLHT</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/electra-glide-standard.html</pdpProductUrl>
+    <name>Electra Glide Standard</name>
+    <formattedName>Electra Glide&lt;sup&gt;®&lt;/sup&gt; Standard</formattedName>
+    <description>Everything you need for a lifetime of cross-country adventure with room make it your own.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHT</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18999</price>
+    <priceFormatted>$18,999</priceFormatted>
+    <monthlyPrice>267</monthlyPrice>
+    <monthlyPriceFormat>$267</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-electra-glide-standard/2020-electra-glide-standard-010/2020-electra-glide-standard-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>1</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-electra-glide-standard-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-electra-glide-standard/2020-electra-glide-standard-010/2020-electra-glide-standard-010-motorcycle.jpg|basePrice:18999|basePriceFormatted:$18,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black</colorNames>
+    <colorFamilyCodes>BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-heritage-classic-107</baseProductCode>
+    <productCodes>2020-heritage-classic-107|FLHC</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/heritage-classic.html</pdpProductUrl>
+    <name>Heritage Classic</name>
+    <formattedName>Heritage Classic</formattedName>
+    <description>The quintessential American cruiser. Showstopping vintage details and pure rock and roll style. </description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHC</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>18999</price>
+    <priceFormatted>$18,999</priceFormatted>
+    <monthlyPrice>267</monthlyPrice>
+    <monthlyPriceFormat>$267</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-f01/2020-heritage-classic-107-f01-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>11</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-heritage-classic-107-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black (107 Engine with Chrome Finish)|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-010/2020-heritage-classic-107-010-motorcycle.jpg|basePrice:0|basePriceFormatted:$0|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-107-e83|colorCode:e83|colorName:Billiard Burgundy|displayColorName:Billiard Burgundy (107 Engine with Chrome Finish)|defaultColor:False|hex1:#48040f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-e83/2020-heritage-classic-107-e83-motorcycle.jpg|basePrice:400|basePriceFormatted:$400|additionalPrice:400|additionalPriceFormatted:$400|additionalPriceMessage:Adds $400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-107-e96|colorCode:e96|colorName:Silver Pine/Spruce|displayColorName:Silver Pine/Spruce (107 Engine with Chrome Finish)|defaultColor:False|hex1:#4a504e|hex2:#5c625e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-e96/2020-heritage-classic-107-e96-motorcycle.jpg|basePrice:750|basePriceFormatted:$750|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:adds  $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-107-e99|colorCode:e99|colorName:Billiard Red/Vivid Black|displayColorName:Billiard Red/Vivid Black (107 Engine with Chrome Finish)|defaultColor:False|hex1:#850005|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-e99/2020-heritage-classic-107-e99-motorcycle.jpg|basePrice:750|basePriceFormatted:$750|additionalPrice:750|additionalPriceFormatted:$750|additionalPriceMessage:adds  $750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-107-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal (107 Engine with Chrome Finish)|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-107/2020-heritage-classic-107-f01/2020-heritage-classic-107-f01-motorcycle.jpg|basePrice:950|basePriceFormatted:$950|additionalPrice:950|additionalPriceFormatted:$950|additionalPriceMessage:Adds $950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black (114 Engine with Black Finish)|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-010/2020-heritage-classic-114-010-motorcycle.jpg|basePrice:20449|basePriceFormatted:$20,449|additionalPrice:1450|additionalPriceFormatted:$1,450|additionalPriceMessage:Adds $1,450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-e83|colorCode:e83|colorName:Billiard Burgundy|displayColorName:Billiard Burgundy (114 Engine with Black Finish)|defaultColor:False|hex1:#48040f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-e83/2020-heritage-classic-114-e83-motorcycle.jpg|basePrice:20849|basePriceFormatted:$20,849|additionalPrice:1850|additionalPriceFormatted:$1,850|additionalPriceMessage:Adds $1,850 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-e96|colorCode:e96|colorName:Silver Pine/Spruce|displayColorName:Silver Pine/Spruce (114 Engine with Black Finish)|defaultColor:False|hex1:#4a504e|hex2:#5c625e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-e96/2020-heritage-classic-114-e96-motorcycle.jpg|basePrice:21199|basePriceFormatted:$21,199|additionalPrice:2200|additionalPriceFormatted:$2,200|additionalPriceMessage:Adds $2,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-e99|colorCode:e99|colorName:Billiard Red/Vivid Black|displayColorName:Billiard Red/Vivid Black (114 Engine with Black Finish)|defaultColor:False|hex1:#850005|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-e99/2020-heritage-classic-114-e99-motorcycle.jpg|basePrice:21199|basePriceFormatted:$21,199|additionalPrice:2200|additionalPriceFormatted:$2,200|additionalPriceMessage:Adds $2,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal (114 Engine with Black Finish)|defaultColor:True|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-f01/2020-heritage-classic-114-f01-motorcycle.jpg|basePrice:21399|basePriceFormatted:$21,399|additionalPrice:2400|additionalPriceFormatted:$2,400|additionalPriceMessage:Adds $2,400 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-heritage-classic-114-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux (114 Engine with Black Finish)|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-heritage-classic-114/2020-heritage-classic-114-f02/2020-heritage-classic-114-f02-motorcycle.jpg|basePrice:21599|basePriceFormatted:$21,599|additionalPrice:2600|additionalPriceFormatted:$2,600|additionalPriceMessage:Adds $2,600 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Billiard Burgundy|Silver Pine/Spruce|Billiard Red/Vivid Black|Tahitian Teal|Scorched Orange/Silver Flux</colorNames>
+    <colorFamilyCodes>BLACK|RED|SILVER|RED|BLACK|TEAL|ORANGE</colorFamilyCodes>
+    <colorFamilyNames>Black|Red|Silver|Red|Black|Teal|Orange</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>SOFTAIL</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-road-king</baseProductCode>
+    <productCodes>2020-road-king|FLHR</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/road-king.html</pdpProductUrl>
+    <name>Road King</name>
+    <formattedName>Road King&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>A stripped-down highway legend with classic chrome styling and modern touring performance.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHR</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>19499</price>
+    <priceFormatted>$19,499</priceFormatted>
+    <monthlyPrice>274</monthlyPrice>
+    <monthlyPriceFormat>$274</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-010/2020-road-king-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-road-king-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-010/2020-road-king-010-motorcycle.jpg|basePrice:19499|basePriceFormatted:$19,499|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-e81|colorCode:e81|colorName:Billiard Red|displayColorName:Billiard Red|defaultColor:False|hex1:#850005|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-e81/2020-road-king-e81-motorcycle.jpg|basePrice:19949|basePriceFormatted:$19,949|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-e85/2020-road-king-e85-motorcycle.jpg|basePrice:19949|basePriceFormatted:$19,949|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-e96|colorCode:e96|colorName:Silver Pine/Spruce|displayColorName:Silver Pine/Spruce|defaultColor:False|hex1:#4a504e|hex2:#5c625e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-e96/2020-road-king-e96-motorcycle.jpg|basePrice:20299|basePriceFormatted:$20,299|additionalPrice:800|additionalPriceFormatted:$800|additionalPriceMessage:Adds $800 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king/2020-road-king-f00/2020-road-king-f00-motorcycle.jpg|basePrice:20499|basePriceFormatted:$20,499|additionalPrice:1000|additionalPriceFormatted:$1,000|additionalPriceMessage:Adds $1,000 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Billiard Red|Stone Washed White Pearl|Silver Pine/Spruce|Stiletto Red</colorNames>
+    <colorFamilyCodes>BLACK|RED|WHITE|SILVER</colorFamilyCodes>
+    <colorFamilyNames>Black|Red|White|Silver</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-road-glide</baseProductCode>
+    <productCodes>2020-road-glide|FLTRX</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/road-glide.html</pdpProductUrl>
+    <name>Road Glide</name>
+    <formattedName>Road Glide&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>The benchmark for long-distance touring bikes. Runs mile after mile with ease.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLTRX</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>21699</price>
+    <priceFormatted>$21,699</priceFormatted>
+    <monthlyPrice>305</monthlyPrice>
+    <monthlyPriceFormat>$305</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-e54/2020-road-glide-e54-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>6</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-road-glide-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-010/2020-road-glide-010-motorcycle.jpg|basePrice:21699|basePriceFormatted:$21,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:True|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-e54/2020-road-glide-e54-motorcycle.jpg|basePrice:22199|basePriceFormatted:$22,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-e79/2020-road-glide-e79-motorcycle.jpg|basePrice:22199|basePriceFormatted:$22,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-e89|colorCode:e89|colorName:Spruce|displayColorName:Spruce|defaultColor:False|hex1:#464f4e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-e89/2020-road-glide-e89-motorcycle.jpg|basePrice:22199|basePriceFormatted:$22,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-f00/2020-road-glide-f00-motorcycle.jpg|basePrice:22899|basePriceFormatted:$22,899|additionalPrice:1200|additionalPriceFormatted:$1,200|additionalPriceMessage:Adds $1,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide/2020-road-glide-f01/2020-road-glide-f01-motorcycle.jpg|basePrice:22899|basePriceFormatted:$22,899|additionalPrice:1200|additionalPriceFormatted:$1,200|additionalPriceMessage:Adds $1,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver|River Rock Gray Denim|Spruce|Stiletto Red|Tahitian Teal</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|GREEN|RED|TEAL</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Green|Red|Teal</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-street-glide</baseProductCode>
+    <productCodes>2020-street-glide|FLHX</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/street-glide.html</pdpProductUrl>
+    <name>Street Glide</name>
+    <formattedName>Street Glide&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>The original stripped-down hot-rod bagger. </description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHX</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>21999</price>
+    <priceFormatted>$21,999</priceFormatted>
+    <monthlyPrice>309</monthlyPrice>
+    <monthlyPriceFormat>$309</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-e14/2020-street-glide-e14-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>6</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-street-glide-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-010/2020-street-glide-010-motorcycle.jpg|basePrice:21999|basePriceFormatted:$21,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-016|colorCode:016|colorName:Black Denim|displayColorName:Black Denim|defaultColor:False|hex1:#2a2c2b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-016/2020-street-glide-016-motorcycle.jpg|basePrice:22499|basePriceFormatted:$22,499|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:True|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-e41/2020-street-glide-e41-motorcycle.jpg|basePrice:22499|basePriceFormatted:$22,499|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-e54/2020-street-glide-e54-motorcycle.jpg|basePrice:22499|basePriceFormatted:$22,499|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-f00/2020-street-glide-f00-motorcycle.jpg|basePrice:23199|basePriceFormatted:$23,199|additionalPrice:1200|additionalPriceFormatted:$1,200|additionalPriceMessage:Adds $1,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide/2020-street-glide-f01/2020-street-glide-f01-motorcycle.jpg|basePrice:23199|basePriceFormatted:$23,199|additionalPrice:1200|additionalPriceFormatted:$1,200|additionalPriceMessage:Adds $1,200 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Black Denim|Midnight Blue|Barracuda Silver|Stiletto Red|Tahitian Teal</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|SILVER|RED|TEAL</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Silver|Red|Teal</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-road-king-special</baseProductCode>
+    <productCodes>2020-road-king-special|FLHRXS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/road-king-special.html</pdpProductUrl>
+    <name>Road King Special</name>
+    <formattedName>Road King&lt;sup&gt;®&lt;/sup&gt; Special</formattedName>
+    <description>A blacked-out custom bagger with top-of-the-line power and a commanding presence.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHRXS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>22999</price>
+    <priceFormatted>$22,999</priceFormatted>
+    <monthlyPrice>323</monthlyPrice>
+    <monthlyPriceFormat>$323</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-e79/2020-road-king-special-e79-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-road-king-special-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-010/2020-road-king-special-010-motorcycle.jpg|basePrice:22999|basePriceFormatted:$22,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-special-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-e54/2020-road-king-special-e54-motorcycle.jpg|basePrice:23449|basePriceFormatted:$23,449|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-special-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:True|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-e79/2020-road-king-special-e79-motorcycle.jpg|basePrice:23449|basePriceFormatted:$23,449|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-special-e83|colorCode:e83|colorName:Billiard Burgundy|displayColorName:Billiard Burgundy|defaultColor:False|hex1:#48040f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-e83/2020-road-king-special-e83-motorcycle.jpg|basePrice:23449|basePriceFormatted:$23,449|additionalPrice:450|additionalPriceFormatted:$450|additionalPriceMessage:Adds $450 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-king-special-f03|colorCode:f03|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-king-special/2020-road-king-special-f03/2020-road-king-special-f03-motorcycle.jpg|basePrice:24999|basePriceFormatted:$24,999|additionalPrice:2000|additionalPriceFormatted:$2,000|additionalPriceMessage:Adds $2,000 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver|River Rock Gray Denim|Billiard Burgundy|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|RED|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Red|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-road-glide-special</baseProductCode>
+    <productCodes>2020-road-glide-special|FLTRXS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/road-glide-special.html</pdpProductUrl>
+    <name>Road Glide Special</name>
+    <formattedName>Road Glide&lt;sup&gt;®&lt;/sup&gt; Special</formattedName>
+    <description>A blacked-out performance bagger loaded with premium features.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLTRXS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>27299</price>
+    <priceFormatted>$27,299</priceFormatted>
+    <monthlyPrice>383</monthlyPrice>
+    <monthlyPriceFormat>$383</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-f02/2020-road-glide-special-f02-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>6</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-road-glide-special-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-010/2020-road-glide-special-010-motorcycle.jpg|basePrice:27299|basePriceFormatted:$27,299|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-special-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-e75/2020-road-glide-special-e75-motorcycle.jpg|basePrice:27799|basePriceFormatted:$27,799|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-special-e77|colorCode:e77|colorName:River Rock Gray|displayColorName:River Rock Gray|defaultColor:False|hex1:#504237|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-e77/2020-road-glide-special-e77-motorcycle.jpg|basePrice:27799|basePriceFormatted:$27,799|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-special-e81|colorCode:e81|colorName:Billiard Red|displayColorName:Billiard Red|defaultColor:False|hex1:#850005|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-e81/2020-road-glide-special-e81-motorcycle.jpg|basePrice:27799|basePriceFormatted:$27,799|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-special-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux|defaultColor:True|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-f02/2020-road-glide-special-f02-motorcycle.jpg|basePrice:29399|basePriceFormatted:$29,399|additionalPrice:2100|additionalPriceFormatted:$2,100|additionalPriceMessage:Adds $2,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-special-f03|colorCode:f03|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-special/2020-road-glide-special-f03/2020-road-glide-special-f03-motorcycle.jpg|basePrice:29399|basePriceFormatted:$29,399|additionalPrice:2100|additionalPriceFormatted:$2,100|additionalPriceMessage:Adds $2,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver Denim|River Rock Gray|Billiard Red|Scorched Orange/Silver Flux|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|RED|ORANGE|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Red|Orange|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-street-glide-special</baseProductCode>
+    <productCodes>2020-street-glide-special|FLHXS</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/street-glide-special.html</pdpProductUrl>
+    <name>Street Glide Special</name>
+    <formattedName>Street Glide&lt;sup&gt;®&lt;/sup&gt; Special</formattedName>
+    <description>A factory-custom bagger with blacked-out style and highway-shredding power.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHXS</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>27699</price>
+    <priceFormatted>$27,699</priceFormatted>
+    <monthlyPrice>389</monthlyPrice>
+    <monthlyPriceFormat>$389</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-e83/2020-street-glide-special-e83-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>7</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-street-glide-special-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-010/2020-street-glide-special-010-motorcycle.jpg|basePrice:27699|basePriceFormatted:$27,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-e79|colorCode:e79|colorName:River Rock Gray Denim|displayColorName:River Rock Gray Denim|defaultColor:False|hex1:#4e443b|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-e79/2020-street-glide-special-e79-motorcycle.jpg|basePrice:28199|basePriceFormatted:$28,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-e83|colorCode:e83|colorName:Billiard Burgundy|displayColorName:Billiard Burgundy|defaultColor:True|hex1:#48040f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-e83/2020-street-glide-special-e83-motorcycle.jpg|basePrice:28199|basePriceFormatted:$28,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-e85|colorCode:e85|colorName:Stone Washed White Pearl|displayColorName:Stone Washed White Pearl|defaultColor:False|hex1:#ececec|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-e85/2020-street-glide-special-e85-motorcycle.jpg|basePrice:28199|basePriceFormatted:$28,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-e87/2020-street-glide-special-e87-motorcycle.jpg|basePrice:28199|basePriceFormatted:$28,199|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-f02|colorCode:f02|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-f02/2020-street-glide-special-f02-motorcycle.jpg|basePrice:29799|basePriceFormatted:$29,799|additionalPrice:2100|additionalPriceFormatted:$2,100|additionalPriceMessage:Adds $2,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-street-glide-special-f03|colorCode:f03|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-street-glide-special/2020-street-glide-special-f03/2020-street-glide-special-f03-motorcycle.jpg|basePrice:29799|basePriceFormatted:$29,799|additionalPrice:2100|additionalPriceFormatted:$2,100|additionalPriceMessage:Adds $2,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|River Rock Gray Denim|Billiard Burgundy|Stone Washed White Pearl|Performance Orange|Scorched Orange/Silver Flux|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|GRAY|RED|WHITE|ORANGE|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Gray|Red|White|Orange|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-road-glide-limited</baseProductCode>
+    <productCodes>2020-road-glide-limited|FLTRK</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/road-glide-limited.html</pdpProductUrl>
+    <name>Road Glide Limited</name>
+    <formattedName>Road Glide&lt;sup&gt;®&lt;/sup&gt; Limited</formattedName>
+    <description>A masterful touring machine built to chase the horizon in style.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLTRK</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>28299</price>
+    <priceFormatted>$28,299</priceFormatted>
+    <monthlyPrice>397</monthlyPrice>
+    <monthlyPriceFormat>$397</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e41/2020-road-glide-limited-e41-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>12</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-road-glide-limited-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-010/2020-road-glide-limited-010-motorcycle.jpg|basePrice:28299|basePriceFormatted:$28,299|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e41|colorCode:e41|colorName:Midnight Blue|displayColorName:Midnight Blue|defaultColor:True|hex1:#101825|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e41/2020-road-glide-limited-e41-motorcycle.jpg|basePrice:28899|basePriceFormatted:$28,899|additionalPrice:600|additionalPriceFormatted:$600|additionalPriceMessage:Adds $600 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e94|colorCode:e94|colorName:River Rock Gray/Vivid Black|displayColorName:River Rock Gray/Vivid Black|defaultColor:False|hex1:#4e443b|hex2:#1c1c1c |thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e94/2020-road-glide-limited-e94-motorcycle.jpg|basePrice:29349|basePriceFormatted:$29,349|additionalPrice:1050|additionalPriceFormatted:$1,050|additionalPriceMessage:Adds $1,050 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e96|colorCode:e96|colorName:Silver Pine/Spruce|displayColorName:Silver Pine/Spruce|defaultColor:False|hex1:#4a504e|hex2:#5c625e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e96/2020-road-glide-limited-e96-motorcycle.jpg|basePrice:29349|basePriceFormatted:$29,349|additionalPrice:1050|additionalPriceFormatted:$1,050|additionalPriceMessage:Adds $1,050 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-f00/2020-road-glide-limited-f00-motorcycle.jpg|basePrice:29599|basePriceFormatted:$29,599|additionalPrice:1300|additionalPriceFormatted:$1,300|additionalPriceMessage:Adds $1,300 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-f01/2020-road-glide-limited-f01-motorcycle.jpg|basePrice:29599|basePriceFormatted:$29,599|additionalPrice:1300|additionalPriceFormatted:$1,300|additionalPriceMessage:Adds $1,300 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-010b|colorCode:010b|colorName:Vivid Black|displayColorName:Vivid Black with Black Finish|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-010b/2020-road-glide-limited-010b-motorcycle.jpg|basePrice:30199|basePriceFormatted:$30,199|additionalPrice:1900|additionalPriceFormatted:$1,900|additionalPriceMessage:Adds $1,900 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e77b|colorCode:e77b|colorName:River Rock Gray|displayColorName:River Rock Gray with Black Finish|defaultColor:False|hex1:#504237|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e77b/2020-road-glide-limited-e77b-motorcycle.jpg|basePrice:30799|basePriceFormatted:$30,799|additionalPrice:2500|additionalPriceFormatted:$2,500|additionalPriceMessage:Adds $2,500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e95b|colorCode:e95b|colorName:Barracuda Silver Denim/Black Denim|displayColorName:Barracuda Silver Denim/Black Denim with Black Finish|defaultColor:False|hex1:#9e9e9e|hex2:#2a2c2b|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e95b/2020-road-glide-limited-e95b-motorcycle.jpg|basePrice:31249|basePriceFormatted:$31,249|additionalPrice:2950|additionalPriceFormatted:$2,950|additionalPriceMessage:Adds $2,950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-e99b|colorCode:e99b|colorName:Billiard Red/Vivid Black|displayColorName:Billiard Red/Vivid Black with Black Finish|defaultColor:False|hex1:#850005|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-e99b/2020-road-glide-limited-e99b-motorcycle.jpg|basePrice:31249|basePriceFormatted:$31,249|additionalPrice:2950|additionalPriceFormatted:$2,950|additionalPriceMessage:Adds $2,950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-f02b|colorCode:f02b|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux with Black Finish|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-f02b/2020-road-glide-limited-f02b-motorcycle.jpg|basePrice:32399|basePriceFormatted:$32,399|additionalPrice:4100|additionalPriceFormatted:$4,100|additionalPriceMessage:Adds $4,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-road-glide-limited-f03b|colorCode:f03b|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo with Black Finish|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-road-glide-limited/2020-road-glide-limited-f03b/2020-road-glide-limited-f03b-motorcycle.jpg|basePrice:32399|basePriceFormatted:$32,399|additionalPrice:4100|additionalPriceFormatted:$4,100|additionalPriceMessage:Adds $4,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Midnight Blue|River Rock Gray/Vivid Black|Silver Pine/Spruce|Stiletto Red|Tahitian Teal|River Rock Gray|Barracuda Silver Denim/Black Denim|Billiard Red/Vivid Black|Scorched Orange/Silver Flux|Zephyr Blue/Black Sunglo</colorNames>
+    <colorFamilyCodes>BLACK|BLUE|GRAY|BLACK|SILVER|RED|TEAL|GRAY|SILVER|BLACK|RED|BLACK|ORANGE|BLUE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>Black|Blue|Gray|Black|Silver|Red|Teal|Gray|Silver|Black|Red|Black|Orange|Blue|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-ultra-limited</baseProductCode>
+    <productCodes>2020-ultra-limited|FLHTK</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/ultra-limited.html</pdpProductUrl>
+    <name>Ultra Limited</name>
+    <formattedName>Ultra Limited</formattedName>
+    <description>Premium touring performance with zero compromises to the ride. </description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHTK</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>28699</price>
+    <priceFormatted>$28,699</priceFormatted>
+    <monthlyPrice>403</monthlyPrice>
+    <monthlyPriceFormat>$403</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e96/2020-ultra-limited-e96-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>19</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-ultra-limited-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-010/2020-ultra-limited-010-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e54|colorCode:e54|colorName:Barracuda Silver|displayColorName:Barracuda Silver|defaultColor:False|hex1:#9f9f9f|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e54/2020-ultra-limited-e54-motorcycle.jpg|basePrice:29299|basePriceFormatted:$29,299|additionalPrice:600|additionalPriceFormatted:$600|additionalPriceMessage:Adds $600 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e94|colorCode:e94|colorName:River Rock Gray/Vivid Black|displayColorName:River Rock Gray/Vivid Black|defaultColor:False|hex1:#4e443b|hex2:#1c1c1c |thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e94/2020-ultra-limited-e94-motorcycle.jpg|basePrice:29749|basePriceFormatted:$29,749|additionalPrice:1050|additionalPriceFormatted:$1,050|additionalPriceMessage:Adds $1,050 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e56|colorCode:e56|colorName:Midnight Blue/Barracuda Silver|displayColorName:Midnight Blue/Barracuda Silver|defaultColor:False|hex1:#101825|hex2:#9e9e9e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e56/2020-ultra-limited-e56-motorcycle.jpg|basePrice:29749|basePriceFormatted:$29,749|additionalPrice:1050|additionalPriceFormatted:$1,050|additionalPriceMessage:Adds $1,050 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e96|colorCode:e96|colorName:Silver Pine/Spruce|displayColorName:Silver Pine/Spruce|defaultColor:True|hex1:#4a504e|hex2:#5c625e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e96/2020-ultra-limited-e96-motorcycle.jpg|basePrice:29749|basePriceFormatted:$29,749|additionalPrice:1050|additionalPriceFormatted:$1,050|additionalPriceMessage:Adds $1,050 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-f00/2020-ultra-limited-f00-motorcycle.jpg|basePrice:29999|basePriceFormatted:$29,999|additionalPrice:1300|additionalPriceFormatted:$1,300|additionalPriceMessage:Adds $1,300 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-f01/2020-ultra-limited-f01-motorcycle.jpg|basePrice:29999|basePriceFormatted:$29,999|additionalPrice:1300|additionalPriceFormatted:$1,300|additionalPriceMessage:Adds $1,300 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-010b|colorCode:010b|colorName:Vivid Black|displayColorName:Vivid Black with Black Finish|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-010b/2020-ultra-limited-010b-motorcycle.jpg|basePrice:30599|basePriceFormatted:$30,599|additionalPrice:1900|additionalPriceFormatted:$1,900|additionalPriceMessage:Adds $1,900 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e77b|colorCode:e77b|colorName:River Rock Gray|displayColorName:River Rock Gray with Black Finish|defaultColor:False|hex1:#504237|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e77b/2020-ultra-limited-e77b-motorcycle.jpg|basePrice:31199|basePriceFormatted:$31,199|additionalPrice:2500|additionalPriceFormatted:$2,500|additionalPriceMessage:Adds $2,500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e94b|colorCode:e94b|colorName:River Rock Gray/Vivid Black|displayColorName:River Rock Gray/Vivid Black with Black Finish|defaultColor:False|hex1:#4e443b|hex2:#1c1c1c |thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e94b/2020-ultra-limited-e94b-motorcycle.jpg|basePrice:31649|basePriceFormatted:$31,649|additionalPrice:2950|additionalPriceFormatted:$2,950|additionalPriceMessage:Adds $2,950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-e95b|colorCode:e95b|colorName:Barracuda Silver Denim/Black Denim|displayColorName:Barracuda Silver Denim/Black Denim with Black Finish|defaultColor:False|hex1:#9e9e9e|hex2:#2a2c2b|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-e95b/2020-ultra-limited-e95b-motorcycle.jpg|basePrice:31649|basePriceFormatted:$31,649|additionalPrice:2950|additionalPriceFormatted:$2,950|additionalPriceMessage:Adds $2,950 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-f02b|colorCode:f02b|colorName:Scorched Orange/Silver Flux|displayColorName:Scorched Orange/Silver Flux with Black Finish|defaultColor:False|hex1:#a03c0a|hex2:#484848|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-f02b/2020-ultra-limited-f02b-motorcycle.jpg|basePrice:32799|basePriceFormatted:$32,799|additionalPrice:4100|additionalPriceFormatted:$4,100|additionalPriceMessage:Adds $4,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-f03b|colorCode:f03b|colorName:Zephyr Blue/Black Sunglo|displayColorName:Zephyr Blue/Black Sunglo  with Black Finish|defaultColor:False|hex1:#050f4a|hex2:#1b1a22|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-f03b/2020-ultra-limited-f03b-motorcycle.jpg|basePrice:32799|basePriceFormatted:$32,799|additionalPrice:4100|additionalPriceFormatted:$4,100|additionalPriceMessage:Adds $4,100 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-010p|colorCode:010p|colorName:Vivid Black|displayColorName:Vivid Black - Peace Officer Special Edition|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-010p/2020-ultra-limited-010p-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-058p|colorCode:058p|colorName:Dark Blue|displayColorName:Dark Blue - Peace Officer Special Edition|defaultColor:False|hex1:#242c41|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-058p/2020-ultra-limited-058p-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-010f|colorCode:010f|colorName:Vivid Black|displayColorName:Vivid Black - Firefighter Special Edition|defaultColor:False|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-010f/2020-ultra-limited-010f-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-570f|colorCode:570f|colorName:Fire Engine Red|displayColorName:Fire Engine Red - Firefighter Special Edition|defaultColor:False|hex1:#aa3430|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-570f/2020-ultra-limited-570f-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-165s|colorCode:165s|colorName:Arctic White|displayColorName:Arctic White - Shrine Special Edition|defaultColor:False|hex1:#ffffff|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-165s/2020-ultra-limited-165s-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-ultra-limited-168s|colorCode:168s|colorName:Concord Purple|displayColorName:Concord Purple - Shrine Special Edition|defaultColor:False|hex1:#433068|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-ultra-limited/2020-ultra-limited-168s/2020-ultra-limited-168s-motorcycle.jpg|basePrice:28699|basePriceFormatted:$28,699|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver|River Rock Gray/Vivid Black|Midnight Blue/Barracuda Silver|Silver Pine/Spruce|Stiletto Red|Tahitian Teal|River Rock Gray|Barracuda Silver Denim/Black Denim|Scorched Orange/Silver Flux|Zephyr Blue/Black Sunglo|Dark Blue|Fire Engine Red|Arctic White|Concord Purple</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|GRAY|BLACK|BLUE|SILVER|RED|TEAL|GRAY|SILVER|BLACK|ORANGE|BLUE|BLACK|BLUE|WHITE|PURPLE</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Gray|Black|Blue|Silver|Red|Teal|Gray|Silver|Black|Orange|Blue|Black|Blue|White|Purple</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TOURING</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-cvo-street-glide</baseProductCode>
+    <productCodes>2020-cvo-street-glide|FLHXSE</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/cvo-street-glide.html</pdpProductUrl>
+    <name>CVO Street Glide</name>
+    <formattedName>CVO&lt;sup&gt;™&lt;/sup&gt; Street Glide&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>The pinnacle of factory-custom touring style and comfort. Visually stunning and loaded with power.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHXSE</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>40539</price>
+    <priceFormatted>$40,539</priceFormatted>
+    <monthlyPrice>569</monthlyPrice>
+    <monthlyPriceFormat>$569</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-street-glide/2020-cvo-street-glide-e69/2020-cvo-street-glide-e69-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>3</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-cvo-street-glide-e67|colorCode:e67|colorName:Sand Dune|displayColorName:Sand Dune|defaultColor:False|hex1:#a59e96|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-street-glide/2020-cvo-street-glide-e67/2020-cvo-street-glide-e67-motorcycle.jpg|basePrice:40539|basePriceFormatted:$40,539|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-cvo-street-glide-e68|colorCode:e68|colorName:Black Stardust Fade|displayColorName:Black Stardust Fade|defaultColor:False|hex1:#111111|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-street-glide/2020-cvo-street-glide-e68/2020-cvo-street-glide-e68-motorcycle.jpg|basePrice:40539|basePriceFormatted:$40,539|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-cvo-street-glide-e69|colorCode:e69|colorName:Smoky Gray &amp; Black Hole|displayColorName:Smoky Gray &amp; Black Hole|defaultColor:True|hex1:#3b3b3b|hex2:#1c1c1c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-street-glide/2020-cvo-street-glide-e69/2020-cvo-street-glide-e69-motorcycle.jpg|basePrice:40539|basePriceFormatted:$40,539|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Sand Dune|Black Stardust Fade|Smoky Gray &amp; Black Hole</colorNames>
+    <colorFamilyCodes>BEIGE|BLACK|GRAY</colorFamilyCodes>
+    <colorFamilyNames>Beige|Black|Gray</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TRIKE</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-cvo-limited</baseProductCode>
+    <productCodes>2020-cvo-limited|FLHTKSE</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/cvo-limited.html</pdpProductUrl>
+    <name>CVO Limited</name>
+    <formattedName>CVO&lt;sup&gt;™&lt;/sup&gt; Limited</formattedName>
+    <description>The ultimate in long-range touring and luxury. Features best-in-class power and advanced technology.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHTKSE</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>44039</price>
+    <priceFormatted>$44,039</priceFormatted>
+    <monthlyPrice>618</monthlyPrice>
+    <monthlyPriceFormat>$618</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-limited/2020-cvo-limited-e67/2020-cvo-limited-e67-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>3</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-cvo-limited-e67|colorCode:e67|colorName:Sand Dune|displayColorName:Sand Dune|defaultColor:True|hex1:#a59e96|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-limited/2020-cvo-limited-e67/2020-cvo-limited-e67-motorcycle.jpg|basePrice:44039|basePriceFormatted:$44,039|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-cvo-limited-e66|colorCode:e66|colorName:Smoky Gray &amp; Stormcloud|displayColorName:Smoky Gray &amp; Stormcloud|defaultColor:False|hex1:#3b3b3b|hex2:#4c4c4c|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-limited/2020-cvo-limited-e66/2020-cvo-limited-e66-motorcycle.jpg|basePrice:44039|basePriceFormatted:$44,039|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-cvo-limited-e65|colorCode:e65|colorName:Moonlight Blue &amp; Deep Sea Blue|displayColorName:Moonlight Blue &amp; Deep Sea Blue|defaultColor:False|hex1:#033f7b|hex2:#111e33|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-limited/2020-cvo-limited-e65/2020-cvo-limited-e65-motorcycle.jpg|basePrice:44039|basePriceFormatted:$44,039|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>touring-motorcycle</categoryCode>
+    <categoryName>Touring</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Touring</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|touring-motorcycle</superCategoryCodes>
+    <colorNames>Sand Dune|Smoky Gray &amp; Stormcloud|Moonlight Blue &amp; Deep Sea Blue</colorNames>
+    <colorFamilyCodes>BEIGE|GRAY|BLUE</colorFamilyCodes>
+    <colorFamilyNames>Beige|Gray|Blue</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TRIKE</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-freewheeler</baseProductCode>
+    <productCodes>2020-freewheeler|FLRT</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/freewheeler.html</pdpProductUrl>
+    <name>Freewheeler</name>
+    <formattedName>Freewheeler&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>A stripped-down hot rod cruiser with raw attitude and the confidence of three wheels.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLRT</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>27999</price>
+    <priceFormatted>$27,999</priceFormatted>
+    <monthlyPrice>393</monthlyPrice>
+    <monthlyPriceFormat>$393</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-freewheeler/2020-freewheeler-010/2020-freewheeler-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>4</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-freewheeler-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-freewheeler/2020-freewheeler-010/2020-freewheeler-010-motorcycle.jpg|basePrice:27999|basePriceFormatted:$27,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-freewheeler-e75|colorCode:e75|colorName:Barracuda Silver Denim|displayColorName:Barracuda Silver Denim|defaultColor:False|hex1:#9e9e9e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-freewheeler/2020-freewheeler-e75/2020-freewheeler-e75-motorcycle.jpg|basePrice:28499|basePriceFormatted:$28,499|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-freewheeler-e87|colorCode:e87|colorName:Performance Orange|displayColorName:Performance Orange|defaultColor:False|hex1:#d70007|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-freewheeler/2020-freewheeler-e87/2020-freewheeler-e87-motorcycle.jpg|basePrice:28499|basePriceFormatted:$28,499|additionalPrice:500|additionalPriceFormatted:$500|additionalPriceMessage:Adds $500 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-freewheeler-f00|colorCode:f00|colorName:Stiletto Red|displayColorName:Stiletto Red|defaultColor:False|hex1:#7c101d|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-freewheeler/2020-freewheeler-f00/2020-freewheeler-f00-motorcycle.jpg|basePrice:29599|basePriceFormatted:$29,599|additionalPrice:1600|additionalPriceFormatted:$1,600|additionalPriceMessage:Adds $1,600 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>trike-motorcycle</categoryCode>
+    <categoryName>Trike</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Trike</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|trike-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Barracuda Silver Denim|Performance Orange|Stiletto Red</colorNames>
+    <colorFamilyCodes>BLACK|SILVER|ORANGE|RED</colorFamilyCodes>
+    <colorFamilyNames>Black|Silver|Orange|Red</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TRIKE</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-tri-glide-ultra</baseProductCode>
+    <productCodes>2020-tri-glide-ultra|FLHTCUTG</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/tri-glide-ultra.html</pdpProductUrl>
+    <name>Tri Glide Ultra</name>
+    <formattedName>Tri Glide&lt;sup&gt;®&lt;/sup&gt; Ultra</formattedName>
+    <description>The total package. A long-haul touring trike with unmistakable style and precision-cooled power.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHTCUTG</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>34999</price>
+    <priceFormatted>$34,999</priceFormatted>
+    <monthlyPrice>491</monthlyPrice>
+    <monthlyPriceFormat>$491</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-010/2020-tri-glide-ultra-010-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>5</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-tri-glide-ultra-010|colorCode:010|colorName:Vivid Black|displayColorName:Vivid Black|defaultColor:True|hex1:#1c1c1c|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-010/2020-tri-glide-ultra-010-motorcycle.jpg|basePrice:34999|basePriceFormatted:$34,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-tri-glide-ultra-e89|colorCode:e89|colorName:Spruce|displayColorName:Spruce|defaultColor:False|hex1:#464f4e|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-e89/2020-tri-glide-ultra-e89-motorcycle.jpg|basePrice:35849|basePriceFormatted:$35,849|additionalPrice:850|additionalPriceFormatted:$850|additionalPriceMessage:Adds $850 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-tri-glide-ultra-e56|colorCode:e56|colorName:Midnight Blue/Barracuda Silver|displayColorName:Midnight Blue/Barracuda Silver|defaultColor:False|hex1:#101825|hex2:#9e9e9e|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-e56/2020-tri-glide-ultra-e56-motorcycle.jpg|basePrice:36349|basePriceFormatted:$36,349|additionalPrice:1350|additionalPriceFormatted:$1,350|additionalPriceMessage:Adds $1,350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-tri-glide-ultra-e94|colorCode:e94|colorName:River Rock Gray/Vivid Black|displayColorName:River Rock Gray/Vivid Black|defaultColor:False|hex1:#4e443b|hex2:#1c1c1c |thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-e94/2020-tri-glide-ultra-e94-motorcycle.jpg|basePrice:36349|basePriceFormatted:$36,349|additionalPrice:1350|additionalPriceFormatted:$1,350|additionalPriceMessage:Adds $1,350 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-tri-glide-ultra-f01|colorCode:f01|colorName:Tahitian Teal|displayColorName:Tahitian Teal|defaultColor:False|hex1:#00495a|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-tri-glide-ultra/2020-tri-glide-ultra-f01/2020-tri-glide-ultra-f01-motorcycle.jpg|basePrice:36749|basePriceFormatted:$36,749|additionalPrice:1750|additionalPriceFormatted:$1,750|additionalPriceMessage:Adds $1,750 to MSRP|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>trike-motorcycle</categoryCode>
+    <categoryName>Trike</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Trike</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|trike-motorcycle</superCategoryCodes>
+    <colorNames>Vivid Black|Spruce|Midnight Blue/Barracuda Silver|River Rock Gray/Vivid Black|Tahitian Teal</colorNames>
+    <colorFamilyCodes>BLACK|GREEN|BLUE|SILVER|GRAY|BLACK|TEAL</colorFamilyCodes>
+    <colorFamilyNames>Black|Green|Blue|Silver|Gray|Black|Teal</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TRIKE</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+  <record>
+    <baseProductCode>2020-cvo-tri-glide</baseProductCode>
+    <productCodes>2020-cvo-tri-glide|FLHTCUTGSE</productCodes>
+    <pdpProductUrl>/us/en/motorcycles/cvo-tri-glide.html</pdpProductUrl>
+    <name>CVO Tri Glide</name>
+    <formattedName>CVO&lt;sup&gt;™&lt;/sup&gt; Tri Glide&lt;sup&gt;®&lt;/sup&gt;</formattedName>
+    <description>The paragon of comfort. Locked-and-loaded with premium tour features and chrome accessories.</description>
+    <modelYear>2020</modelYear>
+    <modelCode>FLHTCUTGSE</modelCode>
+    <retailPrice />
+    <retailPriceFormatted />
+    <price>48999</price>
+    <priceFormatted>$48,999</priceFormatted>
+    <monthlyPrice>688</monthlyPrice>
+    <monthlyPriceFormat>$688</monthlyPriceFormat>
+    <priceDisclaimerNum>6</priceDisclaimerNum>
+    <ss-Locale>us_en</ss-Locale>
+    <catalogCode>hdUSProductCatalog</catalogCode>
+    <catalogVersion>online</catalogVersion>
+    <primaryThumbnailUrl>/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-tri-glide/2020-cvo-tri-glide-e72/2020-cvo-tri-glide-e72-motorcycle.jpg</primaryThumbnailUrl>
+    <hoverThumbnailUrl />
+    <riderPosition />
+    <footControls />
+    <passengerSeat />
+    <passengerBackrest />
+    <storage />
+    <fairing />
+    <hdConnect />
+    <infotainment />
+    <engineType />
+    <engineDisplacement />
+    <engine />
+    <a2Compatible />
+    <averageRating />
+    <numberOfReviews />
+    <numberOfColors>2</numberOfColors>
+    <badges />
+    <productOptions>productCode:2020-cvo-tri-glide-e71|colorCode:e71|colorName:Blizzard White Pearl with Lightning Silver &amp; Stormcloud|displayColorName:Blizzard White Pearl with Lightning Silver &amp; Stormcloud|defaultColor:False|hex1:#c7c6c3|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-tri-glide/2020-cvo-tri-glide-e71/2020-cvo-tri-glide-e71-motorcycle.jpg|basePrice:48999|basePriceFormatted:$48,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0,productCode:2020-cvo-tri-glide-e72|colorCode:e72|colorName:Black Stardust with Magnetic Gray &amp; Wicked Red|displayColorName:Black Stardust with Magnetic Gray &amp; Wicked Red|defaultColor:True|hex1:#111111|hex2:|thumbnailImageUrl:/content/dam/h-d/images/product-images/bikes/motorcycle/2020/2020-cvo-tri-glide/2020-cvo-tri-glide-e72/2020-cvo-tri-glide-e72-motorcycle.jpg|basePrice:48999|basePriceFormatted:$48,999|additionalPrice:0|additionalPriceFormatted:$0|additionalPriceMessage:|redirectUrl:|averageRating:0|numberOfReviews:0</productOptions>
+    <primaryCategoryCode>bikes</primaryCategoryCode>
+    <primaryCategoryName>Bikes</primaryCategoryName>
+    <categoryCode>trike-motorcycle</categoryCode>
+    <categoryName>Trike</categoryName>
+    <parentCategoryCode>motorcycles</parentCategoryCode>
+    <parentCategoryName>Motorcycles</parentCategoryName>
+    <superCategoryNames>Bikes|Motorcycles|Trike</superCategoryNames>
+    <superCategoryCodes>biles|motorcycles|trike-motorcycle</superCategoryCodes>
+    <colorNames>Blizzard White Pearl with Lightning Silver &amp; Stormcloud|Black Stardust with Magnetic Gray &amp; Wicked Red</colorNames>
+    <colorFamilyCodes>WHITE|BLACK</colorFamilyCodes>
+    <colorFamilyNames>White|Black</colorFamilyNames>
+    <finishFamilyName />
+    <fitmentType />
+    <fitmentType />
+    <fitmentFilter />
+    <features />
+    <collection />
+    <mountingStyle />
+    <performanceStageUpgrade />
+    <type />
+    <style />
+    <size />
+    <heelHeights />
+    <waistSize />
+    <inseamSize />
+    <availability>Available at Dealer</availability>
+    <inventoryWeighting>NORMAL</inventoryWeighting>
+    <salesRank>1</salesRank>
+    <keywords>TRIKE</keywords>
+    <productReleaseDate />
+    <onlineDate />
+    <offlineDate />
+  </record>
+</records>
