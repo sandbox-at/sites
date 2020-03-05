@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<records>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advlink</path>
+<title>advlink</title>
+<publishDate>2018-06-27</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/test_L6_Load</path>
+<title>test_L6_Load</title>
+<publishDate>2018-06-19</publishDate>
+<description>Created for L6 Load testing</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/asset-library/assetlibrary</path>
+<title>New Asset Library</title>
+<publishDate>2018-12-20</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/s-ptestpage</path>
+<title>S&Ptestpage</title>
+<publishDate>2019-12-24</publishDate>
+<description>S&Ptestpage Descr</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/SampleheroComponent</path>
+<title>SampleheroComponent</title>
+<publishDate>2019-10-16</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/GenericTest</path>
+<title>Generic Test</title>
+<publishDate>2018-12-27</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/brand-evolution</path>
+<title>FedEx Brand Announcements - Brand Evolution</title>
+<publishDate>2018-09-24</publishDate>
+<description>FedEx Brand Announcements - Brand Evolution</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/assetlibrary</path>
+<title>New Asset Library</title>
+<publishDate>2018-12-17</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Search_Component</path>
+<title>Search_Component</title>
+<publishDate>2019-04-24</publishDate>
+<description>Search_Component</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/BRAND_ADV</path>
+<title>BRAND_ADV</title>
+<publishDate>2018-08-06</publishDate>
+<description>TestHomeTLN</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/AdvLink_Logos</path>
+<title>AdvLink_Logos</title>
+<publishDate>2019-06-08</publishDate>
+<description>AdvLink_Logos</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advancelink_brandreview</path>
+<title>Advancelink_Brandreview</title>
+<publishDate>2018-09-17</publishDate>
+<description>Advancelink_Brandreview</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ADVTEST</path>
+<title>ADVTEST</title>
+<publishDate>2018-10-25</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/linuxsearch</path>
+<title>linuxsearch</title>
+<publishDate>2019-05-31</publishDate>
+<description>linuxsearch</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Generic</path>
+<title>Generic</title>
+<publishDate>2018-12-27</publishDate>
+<description>Generic</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advancelink_searchsort</path>
+<title>Advancelink_SearchSort</title>
+<publishDate>2019-10-17</publishDate>
+<description>Advancelink_SearchSort</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/test_brandcontenttemplate</path>
+<title>test_brandcontenttemplate</title>
+<publishDate>2018-07-19</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advancelink_default</path>
+<title>AdvanceLink_Default</title>
+<publishDate>2018-09-26</publishDate>
+<description>AdvanceLink_Default</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/sample-page</path>
+<title>Sample page</title>
+<publishDate>2018-09-19</publishDate>
+<description>Sample page</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advance-link-component</path>
+<title>Advance Link Component</title>
+<publishDate>2019-10-17</publishDate>
+<description>Advance Link Component</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/brand-history</path>
+<title>FedEx Brand History</title>
+<publishDate>2018-10-16</publishDate>
+<description>Learn how our brand has evolved through the decades from the founding of Federal Express to providing global e-commerce solutions.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/AdvanceLinkDefault</path>
+<title>Advance Link_Default</title>
+<publishDate>2018-07-23</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/testsearchcomponent</path>
+<title>TestSearchComponent</title>
+<publishDate>2019-10-21</publishDate>
+<description>TestSearchComponent</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advancelink_brand-review</path>
+<title>advancelink_Brand review</title>
+<publishDate>2019-07-19</publishDate>
+<description>advancelink_Brand review</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/searchcomponent</path>
+<title>searchcomponent</title>
+<publishDate>2019-10-21</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/tnt-strategy11/new-brand-review</path>
+<title>FedEx Brand Announcements - New Brand Review</title>
+<publishDate>2018-08-13</publishDate>
+<description>As part of our first phase in the Brand Resource Center redesign, weâve updated the Brand Review area with a streamlined dashboard, visual activity timeline, expanded request statuses, improved message board and site emails, and more.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/tnt-strategy11</path>
+<title>Brand Review</title>
+<publishDate>2018-08-09</publishDate>
+<description>Brand Review</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/brc-launch</path>
+<title>FedEx Brand Announcements - Updates to the Brand Resource Center</title>
+<publishDate>2018-09-26</publishDate>
+<description>The first phase of the Brand Resource Center redesign is complete. Learn about core elements in FedEx Style, history and current brand happenings in About Our Brand, and how to access resources in an expanded Support section.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/new-brand-review</path>
+<title>FedEx Brand Announcements - New Brand Review</title>
+<publishDate>2018-09-26</publishDate>
+<description>As part of our first phase in the Brand Resource Center redesign, weÃ¢ ve updated the Brand Review area with a streamlined dashboard, visual activity timeline, expanded request statuses, improved message board and site emails, and more.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Logos/component</path>
+<title>component</title>
+<publishDate>2018-06-14</publishDate>
+<description>component-feature</description>
+<tags>logos</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Logos/POD13</path>
+<title>POD13</title>
+<publishDate>2018-06-13</publishDate>
+<description>Advanced</description>
+<tags>icons</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Logos/featured-comp</path>
+<title>featured-comp</title>
+<publishDate>2018-06-14</publishDate>
+<description>featured-comp testing</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/june22nsearch</path>
+<title>JUNE22nsearch</title>
+<publishDate>2019-10-16</publishDate>
+<description>JUNE22nsearch</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/searchpage</path>
+<title>searchpage</title>
+<publishDate>2019-06-25</publishDate>
+<description>searchpage</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/testpage</path>
+<title>Testpage</title>
+<publishDate>2019-09-09</publishDate>
+<description>Testpage</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/searchsearch</path>
+<title>SearchSearch</title>
+<publishDate>2019-10-21</publishDate>
+<description>SearchSearch</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TheFedExLogo/pod</path>
+<title>POD</title>
+<publishDate>2018-06-13</publishDate>
+<description>FOR container</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-search</path>
+<title>brand-search</title>
+<publishDate>2019-10-03</publishDate>
+<description>brand-search</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/Load15</path>
+<title>Load15</title>
+<publishDate>2018-10-16</publishDate>
+<description>Testing Load15</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advance-link_default</path>
+<title>Advance link_Default</title>
+<publishDate>2020-01-29</publishDate>
+<description>Advance link_Default</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/stories_and_quotes/Delivering_Hope</path>
+<title>Delivering Hope</title>
+<publishDate>2020-02-04</publishDate>
+<description>A courier?s simple act of kindness gave three puppies a second chance in life.</description>
+<tags>put-my-customers-first</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/stories_and_quotes/cross_border_crisis</path>
+<title>Cross Border Crisis</title>
+<publishDate>2020-02-04</publishDate>
+<description>Team members worked through the weekend to get lifesaving medication into a customer?s hands.</description>
+<tags>put-my-customers-first</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/Search_Results</path>
+<title>Search Results</title>
+<publishDate>2020-02-12</publishDate>
+<description>Search Results</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/advancelink_search-sort</path>
+<title>Advancelink_Search-Sort</title>
+<publishDate>2020-02-12</publishDate>
+<description>Advancelink_Search-Sort</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TestHomeTLN</path>
+<title>TestHomeTLN</title>
+<publishDate>2020-01-31</publishDate>
+<description>TestHomeTLN</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/default_advance-link</path>
+<title>Default_Advance link</title>
+<publishDate>2020-02-13</publishDate>
+<description>Default_Advance link</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_Landingpage</path>
+<title>Test_Landingpage</title>
+<publishDate>2020-02-12</publishDate>
+<description>Test_Landingpage desc</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_video</path>
+<title>Test_video</title>
+<publishDate>2020-02-28</publishDate>
+<description>Test_video desc</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_landingpage_32020</path>
+<title>Test_landingpage_32020</title>
+<publishDate>2020-03-03</publishDate>
+<description>Testing Landingpage Hero component</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_video0</path>
+<title>Test_video</title>
+<publishDate>2020-03-03</publishDate>
+<description>Test_video desc</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TestHome050519</path>
+<title>Test</title>
+<publishDate>2019-05-05</publishDate>
+<description>Test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/test11</path>
+<title>All Test Pages</title>
+<publishDate>2020-01-17</publishDate>
+<description>Test for brand</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/64testpage</path>
+<title>6.4 Test Page</title>
+<publishDate>2019-05-04</publishDate>
+<description>Test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/fedex-brand-site-search-page</path>
+<title>FedEx Brand Site Search</title>
+<publishDate>2020-01-04</publishDate>
+<description>FedEx Brand Site Search</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/brand-cn-test</path>
+<title>The World On Time | FedEx {country}</title>
+<publishDate>2020-01-27</publishDate>
+<description>Choose a shipping service that suit your needs with FedEx {country}. Whether you need a courier for next day delivery, it's heavy or lightweight ? you?ll find a solution for your business.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/purple-promise</path>
+<title>FedEx Brand Purple Promise</title>
+<publishDate>2020-01-08</publishDate>
+<description>The Purple Promise guides everything we do at FedEx. Learn how you can make every FedEx experience outstanding by adopting our Purple Promise behaviors.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/fedex-brand-site-search</path>
+<title>Brand Site search</title>
+<publishDate>2020-01-04</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/cn-world-on-time</path>
+<title>Express Delivery, Courier & Shipping Services | FedEx {country}</title>
+<publishDate>2020-01-17</publishDate>
+<description>Choose a shipping service that suit your needs with FedEx {country}. Whether you need a courier for next day delivery, it's heavy or lightweight ? you?ll find a solution for your business.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TEST_SEARCH</path>
+<title>TEST_SEARCH</title>
+<publishDate>2020-01-06</publishDate>
+<description>TEST_SEARCH</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/InterruptTest</path>
+<title>Interrupt Test</title>
+<publishDate>2018-09-27</publishDate>
+<description>Interrupt Test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/logo-system</path>
+<title>Test FedEx Brand Style | Logo System</title>
+<publishDate>2018-05-14</publishDate>
+<description>The FedEx Logo</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Training-and-Education</path>
+<title>Training and Education</title>
+<publishDate>2019-04-19</publishDate>
+<description>Training and Education</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/training</path>
+<title>FedEx Brand Training and Education</title>
+<publishDate>2020-01-08</publishDate>
+<description>Resources to help you learn about the FedEx brand, grow professionally, and deliver outstanding experiences every day, including videos and workshops.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TestPrinting</path>
+<title>TestPrinting</title>
+<publishDate>2018-06-08</publishDate>
+<description>TestPrinting</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/power-applications</path>
+<title>Power Applications</title>
+<publishDate>2019-05-30</publishDate>
+<description>Power Applications</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Advance-Componenet-25</path>
+<title>Advance-Componenet-25</title>
+<publishDate>2019-11-11</publishDate>
+<description>Advance-Componenet-25</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Scofield_Test_03122019</path>
+<title>Test page</title>
+<publishDate>2019-03-19</publishDate>
+<description>test page</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TestProduct</path>
+<title>TestProduct</title>
+<publishDate>2018-10-23</publishDate>
+<description>Product</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/brc-launch</path>
+<title>Test - FedEx Brand Announcements - Updates to the Brand Resource Center</title>
+<publishDate>2020-02-03</publishDate>
+<description>The first phase of the Brand Resource Center redesign is complete. Learn about core elements in FedEx Style, history and current brand happenings in About Our Brand, and how to access resources in an expanded Support section.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PurplePromise1</path>
+<title>Purple Promise</title>
+<publishDate>2018-05-01</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG4</path>
+<title>Test 2 PPG</title>
+<publishDate>2018-05-14</publishDate>
+<description>PPG</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/BrandColors</path>
+<title>Test Brand Colors</title>
+<publishDate>2018-05-14</publishDate>
+<description>faq</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG42</path>
+<title>Test PPG</title>
+<publishDate>2020-01-06</publishDate>
+<description>PPG</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/test1</path>
+<title>test</title>
+<publishDate>2020-01-08</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/TheFedExLogo</path>
+<title>Power Applications</title>
+<publishDate>2019-12-19</publishDate>
+<description>faq</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/FedExTopicPage</path>
+<title>FedExTopicPage</title>
+<publishDate>2019-08-16</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/BrandEvolution</path>
+<title>Test Brand Evolution</title>
+<publishDate>2018-05-14</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/BRC1</path>
+<title>Brand Resource Center</title>
+<publishDate>2020-01-29</publishDate>
+<description>Brand Resource Center</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG1</path>
+<title>PPG</title>
+<publishDate>2018-04-18</publishDate>
+<description>PPG description</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ContainerPageTest</path>
+<title>test</title>
+<publishDate>2018-04-16</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Announcements</path>
+<title>Announcements</title>
+<publishDate>2018-04-18</publishDate>
+<description>Announcements</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PopUp</path>
+<title>Pop Up</title>
+<publishDate>2018-04-23</publishDate>
+<description>Pop Up</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG0</path>
+<title>PPG Title</title>
+<publishDate>2018-04-18</publishDate>
+<description>PPG Description</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ContainerTest</path>
+<title>test</title>
+<publishDate>2018-04-16</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG</path>
+<title>PPG</title>
+<publishDate>2018-04-18</publishDate>
+<description>PPG</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG3</path>
+<title>PPG</title>
+<publishDate>2018-04-25</publishDate>
+<description>PPG</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PPG2</path>
+<title>PPG</title>
+<publishDate>2018-04-20</publishDate>
+<description>PPG description</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/sharednav</path>
+<title>sharednav</title>
+<publishDate>2018-04-14</publishDate>
+<description>sharednav</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/common-header-footer</path>
+<title>Header Footer for Legacy Pages</title>
+<publishDate>2018-04-14</publishDate>
+<description>Header Footer for Legacy Pages</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Brand_Overview</path>
+<title>Brand Overview</title>
+<publishDate>2018-04-14</publishDate>
+<description>Brand Overview</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Nikole_Test</path>
+<title>Scofield</title>
+<publishDate>2020-01-29</publishDate>
+<description>df</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/NewName</path>
+<title>NEW Logo</title>
+<publishDate>2018-04-13</publishDate>
+<description>FAQs</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Logos</path>
+<title>The FedEx Logo</title>
+<publishDate>2018-09-13</publishDate>
+<description>The FedEx Logo</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/BrandLibraryOverview</path>
+<title>Test Brand Library Overview</title>
+<publishDate>2019-10-17</publishDate>
+<description>Brand Library Overview</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_Shipping_Page</path>
+<title>Test Shipping page</title>
+<publishDate>2018-04-26</publishDate>
+<description>description</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PopUpTestTLN</path>
+<title>test</title>
+<publishDate>2019-10-14</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/DeleteBrandLibraryOverview/TrackingTemplate</path>
+<title>TrackingTemplate</title>
+<publishDate>2018-02-20</publishDate>
+<description>Tracking</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/test</path>
+<title>test</title>
+<publishDate>2020-02-12</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/Test-Brand-page-Name/Test_Generic</path>
+<title>Test Genreic</title>
+<publishDate>2019-01-22</publishDate>
+<description>Test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/TestHomeTLN</path>
+<title>TestHomeTLN2</title>
+<publishDate>2019-05-05</publishDate>
+<description>TestHomeTLN</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/TestTLN041918</path>
+<title>Test041918B</title>
+<publishDate>2020-01-14</publishDate>
+<description>b</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/test</path>
+<title>test</title>
+<publishDate>2019-01-22</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PrintingTest02132018</path>
+<title>test</title>
+<publishDate>2020-01-08</publishDate>
+<description>test</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-resource-center/Nikole_Test</path>
+<title>Scofield</title>
+<publishDate>2019-05-05</publishDate>
+<description>df</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-resource-center/BrandLibraryOverview</path>
+<title>Brand Library Overview</title>
+<publishDate>2018-04-27</publishDate>
+<description>Brand Library Overview</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-resource-center/TrackingPageTest</path>
+<title>PageTitleExamplePage_TR</title>
+<publishDate>2017-12-18</publishDate>
+<description>desctiption</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-resource-center/Logos</path>
+<title>The FedEx Logo</title>
+<publishDate>2018-04-27</publishDate>
+<description>The FedEx Logo</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-resource-center</path>
+<title>Brand Resource Center</title>
+<publishDate>2017-12-04</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/PopUpPageTemplateTest</path>
+<title>PageTitle_TR</title>
+<publishDate>2018-04-18</publishDate>
+<description>PageTitle_TR</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/DeleteBrandLibraryOverview</path>
+<title>Delete-Brand Library Overview</title>
+<publishDate>2018-02-09</publishDate>
+<description>BrandLibraryOverview</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/FedExTopicPage_TR</path>
+<title>FedExTopicPage_TR</title>
+<publishDate>2018-04-13</publishDate>
+<description>FedExTopicPageDescription</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/Test-Brand-page-Name</path>
+<title>BRC Test4</title>
+<publishDate>2018-05-14</publishDate>
+<description>BRC Test5</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN/AdditionalResources</path>
+<title>Meet The Brand Team</title>
+<publishDate>2018-05-02</publishDate>
+<description>Additional Resources</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/ProductPageTestTLN</path>
+<title>ProductPageTestTLN</title>
+<publishDate>2019-11-19</publishDate>
+<description>ProductPageTestTLN</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/FAQs</path>
+<title>FAQs</title>
+<publishDate>2019-10-14</publishDate>
+<description>FAQs</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11</path>
+<title>All Test Pages</title>
+<publishDate>2018-04-13</publishDate>
+<description>Test for brand</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/sharednavlogin</path>
+<title>sharednavlogin</title>
+<publishDate>2018-04-14</publishDate>
+<description>sharednavlogin</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/home</path>
+<title>FedEx Brand Resource Center</title>
+<publishDate>2020-02-26</publishDate>
+<description>Find brand resources to create materials that accomplish your objectives, while best showcasing FedEx.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/stories</path>
+<title>Stories</title>
+<publishDate>2020-02-24</publishDate>
+<description>Across the company, team members are deepening their commitment to the Purple Promise. Check out the success stories we've collected so far.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/deliver-the-purple-promise</path>
+<title>Deliver the Purple Promise</title>
+<publishDate>2020-02-24</publishDate>
+<description>The Purple Promise has united, guided and inspired FedEx with exceptional results. Three behaviors will help us continue to meet customers' evolving expectations for simpler, more personalized interactions.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/awards-and-recognition</path>
+<title>Awards and Recognition</title>
+<publishDate>2020-02-24</publishDate>
+<description>FedEx regularly honors team members who exemplify delivering the Purple Promise.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise/purple-promise-resources</path>
+<title>Purple Promise Resources</title>
+<publishDate>2020-02-24</publishDate>
+<description>You play a vital role in deepening our companywide commitment to the Purple Promise. That's why many resources are available to support you.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/asset-library</path>
+<title>Asset Library</title>
+<publishDate>2018-08-25</publishDate>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/ArchivedAnnouncements/brc-launch</path>
+<title>FedEx Brand Announcements - Updates to the Brand Resource Center</title>
+<publishDate>2020-02-22</publishDate>
+<description>The first phase of the Brand Resource Center redesign is complete. Learn about core elements in FedEx Style, history and current brand happenings in About Our Brand, and how to access resources in an expanded Support section.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/ArchivedAnnouncements</path>
+<title>Archived Announcements</title>
+<publishDate>2019-12-04</publishDate>
+<description>Looking for past announcements? Check our archive for information about some of our biggest accomplishments.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/search-and-promote</path>
+<title>FedEx Brand Announcements - Search and Promote</title>
+<publishDate>2020-02-22</publishDate>
+<description>Explore updated search functionality that makes finding relevant assets easier. These improvements are the first of many in our ongoing efforts to enhance your search experience.</description>
+<tags>search_and_promote,search,launch</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/tnt-strategy</path>
+<title>FedEx Brand Announcements - TNT Strategy</title>
+<publishDate>2020-02-22</publishDate>
+<description>Find out how our strong, yet simple and customer-focused brand strategy is guiding us through the brand integration plan for TNT.</description>
+<tags>tnt,integration,strategy,rebrand,acquisition</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/templates</path>
+<title>FedEx Brand Announcements - Redesigned Templates</title>
+<publishDate>2020-02-22</publishDate>
+<description>In 2019, Global Brand Management updated several Brand templates to make it easier for you to create branded materials from start to finish. No matter your level of design expertise, you can create powerful communications that maintain a consistent look and feel using the redesigned Brand templates.</description>
+<tags>templates,redesign,update</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/evolving-fedex-brand</path>
+<title>FedEx Brand Announcements - Evolving the FedEx Brand</title>
+<publishDate>2020-02-22</publishDate>
+<description>We've evolved the way we tell FedEx stories and have identified ways to enhance our creative process to ensure our stories are consistent and compelling. Learn about our personality, storytelling principles, core brand elements, and more in our new Style Guide.</description>
+<tags>brand_evolution,evolution</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/fedexrink</path>
+<title>FedEx Brand Announcements - FedExRink</title>
+<publishDate>2020-02-22</publishDate>
+<description>Learn about our PPG Paints Arena brand refresh, and the new FedExRink, an extension of our relationship with the Pittsburgh Penguins that deepens our brand presence to the Pittsburgh community.</description>
+<tags>penguins,hockey,pittsburgh,arena,fedexrink,ppg_paints,sponsorship,refresh,sports</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements</path>
+<title>FedEx Brand Announcements</title>
+<publishDate>2020-02-11</publishDate>
+<description>Catch up on everything new and noteworthy about the FedEx brand.</description>
+<tags>announcements,news,articles,new,quarterly_digest,latest,noteworthy,updates,whats_new</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/team</path>
+<title>FedEx Brand Team</title>
+<publishDate>2019-01-28</publishDate>
+<description>The FedEx Global Brand Management team is here to help by offering tools, inspiration, and guidance during every project stage, from concept to execution. Learn about our team and areas of brand expertise.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/search</path>
+<title>FedEx Search Results</title>
+<publishDate>2020-02-12</publishDate>
+<description>Search Results</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/additional-resources</path>
+<title>FedEx Brand Additional Resources</title>
+<publishDate>2018-12-04</publishDate>
+<description>Some projects may require collaboration with other FedEx teams. Find resources to help move your project forward.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style/tone</path>
+<title>FedEx Brand Style | Tone</title>
+<publishDate>2020-02-26</publishDate>
+<description>What does it mean to sound like FedEx? Our tone is human, relatable, simple, and casual. A cohesive tone across channels helps people recognize our messages.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style/PowerApplications</path>
+<title>FedEx Brand Style | Power Applications</title>
+<publishDate>2020-01-30</publishDate>
+<description>This page explains what a Power Application is and how they should be used.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style</path>
+<title>FedEx Brand Style Overview</title>
+<publishDate>2020-02-22</publishDate>
+<description>FedEx style elements help us express our personality and tell our stories to the world.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/FAQs</path>
+<title>FedEx Brand FAQs</title>
+<publishDate>2019-01-21</publishDate>
+<description>See answers to frequently asked questions about the Brand library, training and education, developing materials, and Brand consultations and material reviews.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/contact-us</path>
+<title>FedEx Brand Contact Us</title>
+<publishDate>2019-01-17</publishDate>
+<description>Contact Us</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/library-overview</path>
+<title>FedEx Brand Library Overview</title>
+<publishDate>2020-02-22</publishDate>
+<description>Learn about the assets and resources available in the Brand Library to help you create materials.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style/typography</path>
+<title>FedEx Brand Style | Typography</title>
+<publishDate>2020-02-22</publishDate>
+<description>See our fonts and learn how to style typography to ensure legibility and achieve our clean and simple style.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-review-overview</path>
+<title>FedEx Brand Review Overview</title>
+<publishDate>2018-11-02</publishDate>
+<description>Whether you need to learn the basics of the FedEx brand, consult with us, or submit your materials for review, the Brand team is here to help through every step of your project.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/ArchivedAnnouncements/new-brand-review</path>
+<title>FedEx Brand Announcements - New Brand Review</title>
+<publishDate>2020-02-22</publishDate>
+<description>As part of our first phase in the Brand Resource Center redesign, we've updated the Brand Review area with a streamlined dashboard, visual activity timeline, expanded request statuses, improved message board and site emails, and more.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/library-overview/search-tips</path>
+<title>FedEx Brand Library Search Tips</title>
+<publishDate>2019-11-15</publishDate>
+<description>Get tips for using keywords and other Brand Library search features to find assets like photos, guidelines, and icons.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/asset-library/search-results</path>
+<title>FedEx Brand Asset Library</title>
+<publishDate>2019-11-26</publishDate>
+<description>The Brand Library contains more than 8,000 assets to help you tell a powerful FedEx story. From logos to icons and imagery to style guides, find everything you need to create dynamic and engaging FedEx materials that align with our brand style.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/training</path>
+<title>FedEx Brand Training and Education</title>
+<publishDate>2020-03-04</publishDate>
+<description>Resources to help you learn about the FedEx brand, grow professionally, and deliver outstanding experiences every day, including videos and workshops.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/brand-history</path>
+<title>FedEx Brand History</title>
+<publishDate>2020-03-04</publishDate>
+<description>Learn how our brand has evolved through the decades from the founding of Federal Express to providing global e-commerce solutions.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style/logo-system</path>
+<title>FedEx Brand Style | Logo System</title>
+<publishDate>2020-03-04</publishDate>
+<description>Our logo is one of the most recognizable elements of our brand. Learn how to properly use the FedEx logo in materials and access the asset library to download logo files.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/announcements/Possibilities</path>
+<title>FedEx Brand Announcements - Possibilities</title>
+<publishDate>2020-03-04</publishDate>
+<description>We've uploaded a new Guideline document to teach creators how to use our Possibilities communications platform</description>
+<tags>possibilities,possibilities_guide,communications_platform</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/purple-promise</path>
+<title>FedEx Brand Purple Promise</title>
+<publishDate>2020-03-04</publishDate>
+<description>The Purple Promise guides everything we do at FedEx. Learn how you can make every FedEx experience outstanding by adopting our Purple Promise behaviors.</description>
+<tags>purple_promise,purple_promise_behaviors,behaviors,i_will_make_everyfedexexperienceoutstanding,put_my_customersfirst,keep_it_simple,stay_one_step_ahead,outstanding</tags>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/fedex-style/colors</path>
+<title>FedEx Brand Style | Colors</title>
+<publishDate>2020-03-04</publishDate>
+<description>Learn about FedEx brand colors, get color values, explore best practices, and see examples of how our colors create our unique visual style.</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Testhome</path>
+<title>test home</title>
+<publishDate>2020-03-05</publishDate>
+<description>test home</description>
+</record>
+<record>
+<path>/content/fedex-brand/sites/us/en_us/test11/Test_SiteSearch</path>
+<title>Test_SiteSearch</title>
+<publishDate>2020-03-05</publishDate>
+<description>Test Site Search desc 5032020</description>
+</record>
+</records>
