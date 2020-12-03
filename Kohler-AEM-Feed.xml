@@ -2,226 +2,30 @@
 <records>
 <!-- record set for K-78382-BL|K-78382-CP starts here -->
 	<record>
-		<url>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=United%20States</path>
+		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=United%20States</path>
+		<url>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html</url>
 		<country>United States</country>
 		<SKUSKUNo>K-78382-BL|K-78382-CP</SKUSKUNo>
 	</record>
 	<record>
 		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Canada</path>
+		url>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html</url>
 		<country>Canada</country>
 		<sku>K-78382-BL|K-78382-CP</sku>
 	</record>
 	<record>
 		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Bahrain</path>
+		<url>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html</url>
 		<country>Bahrain</country>
 		<sku>K-78382-BL|K-78382-CP</sku>
 	</record>
 	<record>
 		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Cyprus</path>
+		<url>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html</url>
 		<country>Cyprus</country>
 		<sku>K-78382-BL|K-78382-CP</sku>
 	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Egypt</path>
-		<country>Egypt</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Israel</path>
-		<country>Israel</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Jordan</path>
-		<country>Jordan</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Kuwait</path>
-		<country>Kuwait</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Lebanon</path>
-		<country>Lebanon</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Oman</path>
-		<country>Oman</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Qatar</path>
-		<country>Qatar</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Saudi%20Arabia</path>
-		<country>Saudi Arabia</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=United%20Arab%20Emirates</path>
-		<country>United Arab Emirates</country>
-		<sku>K-78382-BL|K-78382-CP</sku>
-	</record>	
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=Algeria</path>
-		<country>Algeria</country>
-		<sku>K-78382-CP</sku>
-	</record>	
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78382-kohler-plumbinguscanada.html?country=United%20Kingdom</path>
-		<country>United Kingdom</country>
-		<sku>K-78382-CP</sku>
-	</record>
-<!-- record set for K-78382-BL|K-78382-CP ends here -->
-
-<!-- record set for K-78383-BL|K-78383-CP starts here -->
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=United%20States</path>
-		<country>United States</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Canada</path>
-		<country>Canada</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Bahrain</path>
-		<country>Bahrain</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Cyprus</path>
-		<country>Cyprus</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Egypt</path>
-		<country>Egypt</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Israel</path>
-		<country>Israel</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Jordan</path>
-		<country>Jordan</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Kuwait</path>
-		<country>Kuwait</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Lebanon</path>
-		<country>Lebanon</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Oman</path>
-		<country>Oman</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Qatar</path>
-		<country>Qatar</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=Saudi%20Arabia</path>
-		<country>Saudi Arabia</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=United%20Arab%20Emirates</path>
-		<country>United Arab Emirates</country>
-		<sku>K-78383-BL|K-78383-CP</sku>
-	</record>	
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78383-kohler-plumbinguscanada.html?country=United%20Kingdom</path>
-		<country>United Kingdom</country>
-		<sku>K-78383-CP</sku>
-	</record>
-<!-- record set for K-78383-BL|K-78383-CP ends here -->
-
-<!-- record set for K-78384-BL|K-78384-CP starts here -->
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=United%20States</path>
-		<country>United States</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Canada</path>
-		<country>Canada</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Bahrain</path>
-		<country>Bahrain</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Cyprus</path>
-		<country>Cyprus</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Egypt</path>
-		<country>Egypt</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Israel</path>
-		<country>Israel</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Jordan</path>
-		<country>Jordan</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Kuwait</path>
-		<country>Kuwait</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Lebanon</path>
-		<country>Lebanon</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Oman</path>
-		<country>Oman</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Qatar</path>
-		<country>Qatar</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=Saudi%20Arabia</path>
-		<country>Saudi Arabia</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=United%20Arab%20Emirates</path>
-		<country>United Arab Emirates</country>
-		<sku>K-78384-BL|K-78384-CP</sku>
-	</record>	
-	<record>
-		<path>https://uat.studiokohler.com/content/kohler-kds/en-us/bathroom/bathroom-accessories/toilet-paper-holders/78384-kohler-plumbinguscanada.html?country=United%20Kingdom</path>
-		<country>United Kingdom</country>
-		<sku>K-78384-CP</sku>
-	</record>
+	
 <!-- record set for K-78384-BL|K-78384-CP ends here -->
 
 </records>
