@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spin>
+  <fields>
+    <item>
+      <name>OfferId</name>
+      <meta-tags>OfferId</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <primary_key>Yes</primary_key>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>OfferCode</name>
+      <meta-tags>OfferCode</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ProductUrl</name>
+      <meta-tags>ProductUrl</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ImgSmall</name>
+      <meta-tags>ImgSmall</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ImgMedium</name>
+      <meta-tags>ImgMedium</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ImgLarge</name>
+      <meta-tags>ImgLarge</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>FamilyId</name>
+      <meta-tags>FamilyId</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ShortDescription</name>
+      <meta-tags>ShortDescription</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Category1</name>
+      <meta-tags>Category1</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <field-tables>cat</field-tables>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Category2</name>
+      <meta-tags>Category2</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <field-tables>cat</field-tables>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Category3</name>
+      <meta-tags>Category3</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <field-tables>cat</field-tables>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Category4</name>
+      <meta-tags>Category4</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <field-tables>cat</field-tables>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Category5</name>
+      <meta-tags>Category5</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <field-tables>cat</field-tables>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>OfferType</name>
+      <meta-tags>OfferType</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>WebEnabledDate</name>
+      <meta-tags>WebEnabledDate</meta-tags>
+      <type>Date</type>
+      <date_format_strings>
+        <item><![CDATA[%m/%d/%Y]]></item>
+      </date_format_strings>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Newest</name>
+      <meta-tags>Newest</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ModelNumbers</name>
+      <meta-tags>ModelNumbers</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>SKUs</name>
+      <meta-tags>SKUs</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>GenericOfferCodes</name>
+      <meta-tags>GenericOfferCodes</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>MoreColors</name>
+      <meta-tags>MoreColors</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>TotalStock</name>
+      <meta-tags>TotalStock</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>SoldQuantity</name>
+      <meta-tags>SoldQuantity</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>RevenueSold</name>
+      <meta-tags>RevenueSold</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>ValuePays</name>
+      <meta-tags>ValuePays</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>LastAired</name>
+      <meta-tags>LastAired</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Shows</name>
+      <meta-tags>Shows</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>LineClassification</name>
+      <meta-tags>LineClassification</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>OfferPriceLow</name>
+      <meta-tags>OfferPriceLow</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>OfferPriceHigh</name>
+      <meta-tags>OfferPriceHigh</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>OfferPriceRounded</name>
+      <meta-tags>OfferPriceRounded</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>RetailPrice</name>
+      <meta-tags>RetailPrice</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>PercentOff</name>
+      <meta-tags>PercentOff</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ShippingPrice</name>
+      <meta-tags>ShippingPrice</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>PriceHandle</name>
+      <meta-tags>PriceHandle</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>Rating</name>
+      <meta-tags>Rating</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>RatingLevel</name>
+      <meta-tags>RatingLevel</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>NumberOfReviews</name>
+      <meta-tags>NumberOfReviews</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>PromoIds</name>
+      <meta-tags>PromoIds</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>BMSM</name>
+      <meta-tags>BMSM</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>PWP</name>
+      <meta-tags>PWP</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>GWP</name>
+      <meta-tags>GWP</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>VideoAvailable</name>
+      <meta-tags>VideoAvailable</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>ClearanceDepartment</name>
+      <meta-tags>ClearanceDepartment</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ListPriceLow</name>
+      <meta-tags>ListPriceLow</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ListPriceHigh</name>
+      <meta-tags>ListPriceHigh</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>RetailPriceLow</name>
+      <meta-tags>RetailPriceLow</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>RetailPriceHigh</name>
+      <meta-tags>RetailPriceHigh</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>DailyConversionRate</name>
+      <meta-tags>DailyConversionRate</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>UnitsPerOrder</name>
+      <meta-tags>UnitsPerOrder</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>AverageOrderValue</name>
+      <meta-tags>AverageOrderValue</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>ProductViews</name>
+      <meta-tags>ProductViews</meta-tags>
+      <type>Number</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <name>PropIds</name>
+      <meta-tags>PropIds</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">No</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>No</allow-lists>
+      <templates>xml,dept,simulator,json,json-mc</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Brand</name>
+      <meta-tags>Brand</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Attributes</name>
+      <meta-tags>Attributes</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>GemstoneFeature</name>
+      <meta-tags>GemstoneFeature</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Metal</name>
+      <meta-tags>Metal</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>WebExclusiveDepartme</name>
+      <meta-tags>WebExclusiveDepartme</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Boutique</name>
+      <meta-tags>Boutique</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>CaseSize</name>
+      <meta-tags>CaseSize</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Complication</name>
+      <meta-tags>Complication</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>WatchStyle</name>
+      <meta-tags>WatchStyle</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>SiteTags</name>
+      <meta-tags>SiteTags</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>StrapBracelet</name>
+      <meta-tags>StrapBracelet</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Movement</name>
+      <meta-tags>Movement</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>CaseShape</name>
+      <meta-tags>CaseShape</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Gold</name>
+      <meta-tags>Gold</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>GoldKarat</name>
+      <meta-tags>GoldKarat</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>GoldColor</name>
+      <meta-tags>GoldColor</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>InvictaCollection</name>
+      <meta-tags>InvictaCollection</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>BraceletStyle</name>
+      <meta-tags>BraceletStyle</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>MensJewelryDepartmen</name>
+      <meta-tags>MensJewelryDepartmen</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>BraceletLength</name>
+      <meta-tags>BraceletLength</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>WaterfordCollection</name>
+      <meta-tags>WaterfordCollection</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>SkinConcern</name>
+      <meta-tags>SkinConcern</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>FragranceType</name>
+      <meta-tags>FragranceType</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Condition</name>
+      <meta-tags>Condition</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>StuhrlingOriginalCol</name>
+      <meta-tags>StuhrlingOriginalCol</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>FragranceGiftSetsDep</name>
+      <meta-tags>FragranceGiftSetsDep</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>PreownedDepartment</name>
+      <meta-tags>PreownedDepartment</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>CitizenCollection</name>
+      <meta-tags>CitizenCollection</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>SeriousSkincareColle</name>
+      <meta-tags>SeriousSkincareColle</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Technology</name>
+      <meta-tags>Technology</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>TVSize</name>
+      <meta-tags>TVSize</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Comfort</name>
+      <meta-tags>Comfort</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>ISOMERSCollection</name>
+      <meta-tags>ISOMERSCollection</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>FashionAttributes</name>
+      <meta-tags>FashionAttributes</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>Material</name>
+      <meta-tags>Material</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>SeikoCollection</name>
+      <meta-tags>SeikoCollection</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+      <dynamic-facet>Yes</dynamic-facet>
+      <name>FashionJewelryDepart</name>
+      <meta-tags>FashionJewelryDepart</meta-tags>
+      <type>Text</type>
+      <sorting ui_override="yes">DESC</sorting>
+      <search-by-default ui_override="yes">Yes</search-by-default>
+      <allow-dedupe>No</allow-dedupe>
+      <allow-lists>Yes</allow-lists>
+      <list-delimiters>|</list-delimiters>
+      <templates>simulator</templates>
+      <relevance ui_override="yes">5</relevance>
+    </item>
+    <item>
+	
+	<prototype id="Field-Text-Range">
+<type>Text</type>
+<relevance>1</relevance>
+<search-by-default>No</search-by-default>
+<sorting>ASC</sorting>
+<allow-lists>No</allow-lists>
+<list-delimiters>|</list-delimiters>
+<allow-dedupe>No</allow-dedupe>
+<field-tables></field-tables>
+<attribute-tables></attribute-tables>
+<reference-field>OfferPriceRounded</reference-field>
+<dynamic-facet>Yes</dynamic-facet>
+      <name>priceRange</name>
+      <meta-tags>priceRange</meta-tags>
+<searches></searches>
+<groups></groups>
+<ranges>
+<![CDATA[
+0
+25
+50
+100
+200
+400
+600
+800 or more
+]]>
+</ranges>
+</prototype>
+      
+     
+    
+     
+      
+     
+    </item>
+    <item prototype="Field_Text_List">
+      <name>alt</name>
+      <relevance>1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>desc</name>
+      <meta-tags>DESCRIPTION</meta-tags>
+      <relevance>1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>keys</name>
+      <meta-tags>KEYWORDS</meta-tags>
+      <relevance ui_override="yes">1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>title</name>
+      <meta-tags>Title</meta-tags>
+      <relevance>10</relevance>
+      <search-by-default>Yes</search-by-default>
+      <templates>xml,dept,simulator,json</templates>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>body</name>
+      <relevance>1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>url</name>
+      <relevance>1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item prototype="Field_Text_List">
+      <name>target</name>
+      <meta-tags>TARGET</meta-tags>
+      <relevance>1</relevance>
+      <search-by-default>No</search-by-default>
+    </item>
+    <item>
+      <name>Category1Display</name>
+      <meta-tags>Category1</meta-tags>
+      <relevance>1</relevance>
+      <type>Text</type>
+      <templates>xml,dept,simulator</templates>
+    </item>
+  </fields>
+</spin>
