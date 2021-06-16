@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<records>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/overview/edit-production/jcr:content</path>
+<title>Edit Production Keys | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/overview/add-test-api/jcr:content</path>
+<title>Add Test API | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/overview/jcr:content</path>
+<title>Project Overview | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/overview/add-production-api/jcr:content</path>
+<title>Add Production API | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/overview/edit-test/jcr:content</path>
+<title>Edit Test Keys | FedEx Developer Portal</title>
+<date>2021-02-11</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/settings/jcr:content</path>
+<title>Project Settings | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/create/jcr:content</path>
+<title>Create Project | FedEx Developer Portal</title>
+<date>2021-02-09</date>
+<description>Create Project</description>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/jcr:content</path>
+<title>My Projects | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/project/certification/jcr:content</path>
+<title>API Certification | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/organization/account-status/jcr:content</path>
+<title>EULA Status for Account | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+<description>EULA Status for Account</description>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/organization/create/jcr:content</path>
+<title>Create Organization | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+<description>Create Organization</description>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/organization/jcr:content</path>
+<title>Organization Administration | FedEx Developer Portal</title>
+<date>2020-12-02</date>
+<description>Organization Administration</description>
+</record>
+</records>
