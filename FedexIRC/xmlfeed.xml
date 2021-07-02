@@ -1,83 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <records>
 <record>
-<name>Introduction</name>
-<path>/content/fedex-com/irc/sites/us/en_us/catalog/address-validation/jcr:content</path
-<description><p>Service Availability API enables you to determine different available FedEx<sup>&reg;</sup> services, special services, and packaging types for FedEx Express<sup>&reg;</sup> and FedEx Ground<sup>&reg;</sup> for the input origin and destination location details.</p></description>
-<apiGroup>Service Availability API</apiGroup>
+<path>/content/fedex-com/irc/sites/us/en_us/catalog/harmonized-code/jcr:content</path>
+<title>Harmonized Code Lookup API | FedEx Developer Portal</title>
+<description>Harmonized Code Lookup API</description>
+<apiGroup>Harmonized Code Lookup API</apiGroup>
 <category>API Catalog</category>
-<date>2020-12-02</date>
 </record>
 <record>
-<name>Track API Details</name>
-<path>/content/fedex-com/irc/sites/us/en_us/catalog/track/jcr:content</path>
-<description>FedEx Tracking helps you to get an insight into the location of the shipments. With the availability of tracking notifications, you can request various types of notifications about your shipments on your email and on your mobile on the go. <p>You can also track the status of shipments by using a reference number, such as a purchase order (PO) number, customer reference, invoice, Bill of Lading (BOL), part number, or Transportation Control Number (TCN). Tracking by something other than a tracking number also requires inclusion of Sender's account number and should contain secure tracking content. </p><p>Take advantage of detailed shipment&ndash;status updates, search capabilities and other tools that help you manage your shipments.</p><ul><li>Track the status of up to 30 FedEx Express, FedEx Ground, FedEx Home Delivery, FedEx SmartPost and FedEx Office shipments/orders.</li><li>Send requests for notifications and receive email notifications on the status of your shipments/orders.</li><li>Review status updates in a calendar or list view to help you plan more effectively.</li><li>Filter by reference number, shipment date, company name and other variables.</li><li>View print or email FedEx Signature Proof of Delivery letters. Even if no signature is available, you can still view/print, email and fax the available proof of delivery information. Fax option is not available for multiple Signature proof of delivery requests.</li><li>Request that an eligible package be held for pickup at a FedEx location (U.S. only).</li></ul></description>
-<apiGroup>Track API</apiGroup>
+<path>/content/fedex-com/irc/sites/us/en_us/catalog/authorization/jcr:content</path>
+<title>API Authorization | FedEx Developer Portal</title>
+<description>Authorization API</description>
+<apiGroup>API Authorization</apiGroup>
 <category>API Catalog</category>
-<date>2020-12-02</date>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/catalog/account-verification/jcr:content</path>
+<title>Account Verification API | FedEx Developer Portal</title>
+<description>Account Verification API</description>
+<apiGroup>Account Verification API</apiGroup>
+<category>API Catalog</category>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/catalog/dangerous-goods/jcr:content</path>
+<title>Dangerous Goods API | FedEx Developer Portal</title>
+<description>Harmonized Code Lookup API</description>
+<apiGroup>Dangerous Goods API</apiGroup>
+<category>API Catalog</category>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/overview/edit-production/jcr:content</path>
 <title>Edit Production Keys | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/overview/add-test-api/jcr:content</path>
 <title>Add Test API | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/overview/jcr:content</path>
 <title>Project Overview | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/overview/add-production-api/jcr:content</path>
 <title>Add Production API | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/overview/edit-test/jcr:content</path>
 <title>Edit Test Keys | FedEx Developer Portal</title>
-<date>2021-02-11</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/settings/jcr:content</path>
 <title>Project Settings | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/create/jcr:content</path>
 <title>Create Project | FedEx Developer Portal</title>
-<date>2021-05-11</date>
 <description>Create Project</description>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/jcr:content</path>
 <title>My Projects | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/project/certification/jcr:content</path>
 <title>API Certification | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/organization/account-status/jcr:content</path>
 <title>EULA Status for Account | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 <description>EULA Status for Account</description>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/organization/create/jcr:content</path>
 <title>Create Organization | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 <description>Create Organization</description>
 </record>
 <record>
 <path>/content/fedex-com/irc/sites/us/en_us/organization/jcr:content</path>
 <title>Organization Administration | FedEx Developer Portal</title>
-<date>2020-12-02</date>
 <description>Organization Administration</description>
+</record>
+<record>
+<path>/content/fedex-com/irc/sites/us/en_us/organization/add-account/jcr:content</path>
+<title>Add Account | FedEx Developer Portal</title>
+<description>Add Account</description>
+ <category>Support</category>
 </record>
 </records>
